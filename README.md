@@ -7,7 +7,7 @@ Integre a API do Escavador ao seu sistema e tenha acesso a informações públic
 
 ### Autenticação
 
-Utiliza o protocolo OAuth 2.0 para autenticação e autorização, permitindo que aplicações enviem solicitações autenticadas em nome de usuários individuais do Escavador.
+Utiliza o protocolo [OAuth 2.0](https://tools.ietf.org/html/rfc6749) para autenticação e autorização, permitindo que aplicações enviem solicitações autenticadas em nome de usuários individuais do Escavador.
 
 O access_token recebido deve ser utilizado no cabeçalho das outras requisições, para que a API identifique o usuário. 
 O token de acesso tem vida útil limitada (valor retornado no campo expires_in) e caso expire, será necessário obter um novo token repetindo esta requisição.

@@ -1,0 +1,36 @@
+ 2021-04-17 18:50:22,844 - DEBUG - Starting new HTTPS connection (1): api.escavador.com:443
+ 2021-04-17 18:50:23,709 - DEBUG - https://api.escavador.com:443 "POST /api/v1/request-token HTTP/1.1" 422 None
+ 2021-04-17 18:50:23,714 - INFO - {
+    "error": "BadRequest",
+    "message": "Usu\u00e1rio n\u00e3o existe"
+}
+ 2021-04-17 18:50:38,014 - DEBUG - Starting new HTTPS connection (1): api.escavador.com:443
+ 2021-04-17 18:50:38,886 - DEBUG - https://api.escavador.com:443 "POST /api/v1/request-token HTTP/1.1" 422 None
+ 2021-04-17 18:50:38,893 - INFO - {
+    "error": "BadRequest",
+    "message": "Usu\u00e1rio n\u00e3o existe"
+}
+ 2021-04-17 19:00:51,677 - DEBUG - Starting new HTTPS connection (1): api.escavador.com:443
+ 2021-04-17 19:00:57,547 - DEBUG - https://api.escavador.com:443 "POST /api/v1/request-token HTTP/1.1" 422 None
+ 2021-04-17 19:00:57,553 - DEBUG - {
+    "error": "BadRequest",
+    "message": "Usu\u00e1rio n\u00e3o existe"
+}
+ 2021-04-17 19:04:18,715 - DEBUG - Starting new HTTPS connection (1): api.escavador.com:443
+ 2021-04-17 19:04:19,601 - DEBUG - https://api.escavador.com:443 "POST /api/v1/request-token HTTP/1.1" 422 None
+ 2021-04-17 19:04:19,608 - DEBUG - {
+    "error": "BadRequest",
+    "message": "Usu\u00e1rio n\u00e3o existe"
+}
+ 2021-04-17 19:11:28,234 - DEBUG - Starting new HTTPS connection (1): api.escavador.com:443
+ 2021-04-17 19:11:34,136 - DEBUG - https://api.escavador.com:443 "POST /api/v1/request-token HTTP/1.1" 422 None
+ 2021-04-17 19:11:34,142 - DEBUG - {
+    "error": "BadRequest",
+    "message": "Usu\u00e1rio n\u00e3o existe"
+}
+ 2021-04-17 19:14:58,160 - DEBUG - Starting new HTTPS connection (1): api.escavador.com:443
+ 2021-04-17 19:14:59,043 - DEBUG - https://api.escavador.com:443 "POST /api/v1/request-token HTTP/1.1" 422 None
+ 2021-04-17 19:14:59,050 - INFO - {
+    "error": "BadRequest",
+    "message": "Usu\u00e1rio n\u00e3o existe"
+}
