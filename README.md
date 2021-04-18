@@ -30,6 +30,7 @@ Por sua vez, o client deve possuir mecanismos próprios para identificar e valid
 ---
 
 ## Referência
+* [Documentação do Python](https://docs.python.org/3/)
 * [Documentação da API  do Escavador](https://api.escavador.com/docs/)
 * [Segurança - JWT x Cookies x OAuth 2.0 x Bearer por Bruno Brito](https://www.brunobrito.net.br/jwt-cookies-oauth-bearer/)
 * [Uso do Flask para consumir api do escavdor por Jonathan Gama](https://github.com/JonathanGamaS/consumo_api_escavador)

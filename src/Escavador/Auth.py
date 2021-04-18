@@ -2,13 +2,16 @@ import requests
 import json
 import logging
 
+from Escavador.Library import Frame
 
-class Auth(object):
+
+class Auth(Frame):
     def __init__(self, email, password):
         logging.basicConfig(filename=('log/auth_status_codes.txt'),
             level=logging.DEBUG, 
             format=' %(asctime)s - %(levelname)s - %(message)s')
         
+        super().__init__()
         self.verb = 'POST'
         self.url = 'https://api.escavador.com/api/v1/request-token'
         self.headers = {'X-Requested-With': 'XMLHttpRequest', 'Content-Type': 'application/json'}
@@ -46,42 +49,3 @@ class Auth(object):
     @payload.deleter
     def payload(self):
         del self._payload
-
-
-    @property
-    def verb(self):
-        return self._verb 
-    
-    @verb.setter
-    def verb(self, verb):
-        self._verb = verb.upper()
-        
-    @verb.deleter
-    def verb(self):
-        del self._verb
-        
-    
-    @property
-    def url(self):
-        return self._url 
-    
-    @url.setter
-    def url(self, url):
-        self._url = url
-        
-    @url.deleter
-    def url(self):
-        del self._url
-    
-    
-    @property
-    def headers(self):
-        return self._headers 
-    
-    @headers.setter
-    def headers(self, headers):
-        self._headers = headers
-        
-    @headers.deleter
-    def headers(self):
-        del self._headers

@@ -1,6 +1,5 @@
 import requests
 import json
-import csv
 import logging
 
 from Escavador import Auth
@@ -29,11 +28,8 @@ def query(bearer_token, query_parameters):
         limit     | opcional	| Número de itens que serão retornados por página. Default: 20
         page	  | opcional	| Número da página, respeitando o limite informado.
     """
-    
     access_token = bearer_token["access_token"]
-    
     url = 'https://api.escavador.com/api/v1/busca'
-
     headers = {
         'Authorization': f'Bearer {access_token}',
         'X-Requested-With': 'XMLHttpRequest'
@@ -65,17 +61,19 @@ if __name__ == "__main__" :
         del EMAIL
         del PWD    
     
+    print(bearer)
+    
     logging.info("Auth End")
-    logging.info("Bearer Beging")
+    # logging.info("Bearer Beging")
     
-    params = {
-        'q': 'Otto Teixeira Fraga Netto',  
-        'qo': 't',  
-        'limit': '10',  # opcional
-        'page': '1'  # opcional
-    }
+    # params = {
+    #     'q': 'Otto Teixeira Fraga Netto',  
+    #     'qo': 't',  
+    #     'limit': '10',  # opcional
+    #     'page': '1'  # opcional
+    # }
 
-    query(bearer, params)
+    # query(bearer, params)
     
-    logging.info("Bearer End")
+    # logging.info("Bearer End")
     
