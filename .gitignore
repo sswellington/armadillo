@@ -1,6 +1,8 @@
 .vscode
 tempCodeRunnerFile.py
 
+_vault
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

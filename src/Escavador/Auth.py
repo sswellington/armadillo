@@ -1,24 +1,38 @@
-import logging
 import requests
 import json
+import logging
 
 
 class Auth(object):
-    def __init__(self, payload):
-        logging.basicConfig(filename=('log/auth.txt'),
+    def __init__(self, email, password):
+        logging.basicConfig(filename=('log/auth_status_codes.txt'),
             level=logging.DEBUG, 
             format=' %(asctime)s - %(levelname)s - %(message)s')
         
-        self.payload = payload
+        self.verb = 'POST'
         self.url = 'https://api.escavador.com/api/v1/request-token'
         self.headers = {'X-Requested-With': 'XMLHttpRequest', 'Content-Type': 'application/json'}
+        self.payload = {'username': email, 'password': password}
 
-    
-    def __repr__(self):
-        response = requests.request('POST', self.url, headers=self.headers, json=self.payload)
+
+    def bearer(self):
+        response = requests.request(
+            self.verb, 
+            self.url, 
+            headers =self.headers, 
+            json =self.payload
+        )
+        
+        """ DEBUG - HTTP response status codes : BEGIN """
         parsed = json.loads(response.text)
-        logging.info(json.dumps(parsed, indent=4))
-        return (json.dumps(parsed, indent=4))
+        logging.debug(json.dumps(parsed, indent=4))
+        """ DEBUG - HTTP response status codes : END """
+        
+        response_dict = json.loads(response.content)
+        return {
+            "access_token": response_dict["access_token"], 
+            "refresh_token": response_dict["refresh_token"]
+        }
 
 
     @property
@@ -27,17 +41,24 @@ class Auth(object):
     
     @payload.setter
     def payload(self, payload):
-        """        
-            | Parâmetro |  Tipo  |	  Status   |          Descrição            |  
-            |-----------|--------|-------------|-------------------------------|
-            | username	| string | obrigatório | Email do usuário do escavador |
-            | password	| string | obrigatório | Senha do usuário do escavador |
-        """
         self._payload = payload
         
     @payload.deleter
     def payload(self):
         del self._payload
+
+
+    @property
+    def verb(self):
+        return self._verb 
+    
+    @verb.setter
+    def verb(self, verb):
+        self._verb = verb.upper()
+        
+    @verb.deleter
+    def verb(self):
+        del self._verb
         
     
     @property
