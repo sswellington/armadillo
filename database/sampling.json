@@ -1,0 +1,1499 @@
+{
+    "paginator": {
+        "total": 134,
+        "total_pages": 7,
+        "current_page": 1,
+        "per_page": 20
+    },
+    "links": {
+        "prev": null,
+        "next": "https://api.escavador.com/api/v1/busca?q=otto%20teixeira%20fraga%20netto&qo=p&page=2"
+    },
+    "items": [
+        {
+            "id": 55191775,
+            "nome": "Otto Teixeira Fraga Netto",
+            "resumo": "De acordo com os dados indexados: Otto Teixeira Fraga Netto possui 3 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado do Rio de Janeiro.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/25221965/sbf-comercio-de-produtos-esportivos-ltda' title='Sbf Comercio de Produtos Esportivos Ltda'>Sbf Comercio de Produtos Esportivos Ltda</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/26113893/banco-itaucard-s-a' title='Banco Itaucard S/A'>Banco Itaucard S/A</a> com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 3,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "otto-teixeira-fraga-netto",
+            "url_id": 450909910,
+            "link": "https://www.escavador.com/sobre/450909910/otto-teixeira-fraga-netto",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/55191775",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-01-24 01:40:26",
+            "tem_patente": 0
+        },
+        {
+            "id": 9025898,
+            "nome": "Otto Teixeira Fraga Netto",
+            "resumo": "Atualmente doutorando em Bioquímica Aplicada no Laboratório de Biologia Molecular de Plantas - Prof Elizabeth Fontes. Tem experiência na área de Bioquímica em Biologia Molecular de Plantas. já foi bolsista do Programa Jovens Talentos para a Ciência e do Programa Bolsas de Verão do CNPEM. Já foi membro do Centro Acadêmico de Bioquímica, gerente de Marketing da Tecnomol - Empresa Júnior de Bioquímica, tutor de Bioquímica Fundamental na UFV e membro do Bioquímica Brasil.<br />",
+            "atuacao_formacao": [
+                {
+                    "ano_inicio": 2017,
+                    "tipo": "formacao",
+                    "descricao": "Doutorado em andamento em Bioquimica Agricola",
+                    "instituicao": "Universidade Federal de Viçosa"
+                },
+                {
+                    "ano_inicio": 2013,
+                    "tipo": "formacao",
+                    "descricao": "Graduação em Bioquímica",
+                    "instituicao": "Universidade Federal de Viçosa",
+                    "ano_fim": 2017
+                },
+                {
+                    "ano_inicio": 2011,
+                    "tipo": "formacao",
+                    "descricao": "Ensino Médio (2º grau)",
+                    "instituicao": "Faculdade Redentor",
+                    "ano_fim": 2012
+                },
+                {
+                    "ano_inicio": 2015,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Bolsista, Enquadramento Funcional: Bolsista de Verão, Carga horária: 40, Regime: Dedicação exclusiva. ",
+                    "instituicao": "Centro Nacional de Pesquisa em Energia e Materiais",
+                    "ano_fim": 2015
+                },
+                {
+                    "ano_inicio": 2016,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Bolsista, Enquadramento Funcional: Tutoria na Disciplina Bioquímica Fundamental, Carga horária: 4",
+                    "instituicao": "Universidade Federal de Viçosa"
+                },
+                {
+                    "ano_inicio": 2014,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Diretor de Marketing, Enquadramento Funcional: Bioquímica Brasil, Carga horária: 6",
+                    "instituicao": "Universidade Federal de Viçosa"
+                },
+                {
+                    "ano_inicio": 2013,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Gerente de Assuntos Acadêmicos, Enquadramento Funcional: Centro Acadêmico de Bioquímica, Carga horária: 4",
+                    "instituicao": "Universidade Federal de Viçosa",
+                    "ano_fim": 2015
+                },
+                {
+                    "ano_inicio": 2013,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Gerente de Marketing, Enquadramento Funcional: TECNOMOL - Empresa Júnior de Bioquímica, Carga horária: 6",
+                    "instituicao": "Universidade Federal de Viçosa",
+                    "ano_fim": 2014
+                }
+            ],
+            "nome_em_citacoes": "FRAGA, OTTO TEIXEIRA;FRAGA, OTTO T.;Teixeira Fraga, Otto",
+            "quantidade_processos": 0,
+            "tipos_juridico": null,
+            "tem_processo": 0,
+            "slug": "otto-teixeira-fraga-netto",
+            "url_id": 9273827,
+            "link": "https://www.escavador.com/sobre/9273827/otto-teixeira-fraga-netto",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/9025898",
+            "oab_numero": null,
+            "tem_curriculo": 1,
+            "updated_at": "2020-02-06 11:48:45",
+            "tem_patente": 0
+        },
+        {
+            "id": 54920086,
+            "nome": "Otto Teixeira Fraga-Netto",
+            "resumo": "",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 0,
+            "tipos_juridico": null,
+            "tem_processo": 0,
+            "slug": "otto-teixeira-fraga-netto",
+            "url_id": 446854604,
+            "link": "https://www.escavador.com/sobre/446854604/otto-teixeira-fraga-netto",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/54920086",
+            "oab_numero": null,
+            "tem_curriculo": 1,
+            "updated_at": "2020-01-22 17:07:45",
+            "tem_patente": 0
+        },
+        {
+            "id": 24554597,
+            "nome": "Thais Helena Teixeira Amorim Fraga Netto",
+            "resumo": "De acordo com os dados indexados: Thais Helena Teixeira Amorim Fraga Netto é Advogado(a) e possui 4732 processos indexados, até então, pelo Escavador. Com 4675 processos no Estado de São Paulo, além de 57 processos no Brasil. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/29124355/fazenda-do-estado-de-sao-paulo' title='Fazenda do Estado de São Paulo'>Fazenda do Estado de São Paulo</a> foi a parte que mais apareceu, totalizando 68 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/26422210/sao-paulo-previdencia-spprev' title='Sao Paulo Previdencia - Spprev'>Sao Paulo Previdencia - Spprev</a> com 26 ou mais processos. Seus clientes com mais processos aqui são: <a class='link -color' href='https://www.escavador.com/sobre/12798227/heloisa-regina-dezen' title='Heloisa Regina Dezen'>Heloisa Regina Dezen</a> com 1 processo , seguido por <a class='link -color' href='https://www.escavador.com/sobre/12803105/benedito-soares' title='Benedito Soares'>Benedito Soares</a> com 1 processo.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 4732,
+            "tipos_juridico": [
+                {
+                    "quantidade_processos": 4688,
+                    "label": "ADVOGADO"
+                },
+                {
+                    "quantidade_processos": 480,
+                    "label": "ADVOGADA"
+                },
+                {
+                    "quantidade_processos": 2,
+                    "label": "AGRAVANTE"
+                },
+                {
+                    "quantidade_processos": 2,
+                    "label": "EMBARGANTE"
+                },
+                {
+                    "quantidade_processos": 1,
+                    "label": "AGRAVADA"
+                },
+                {
+                    "quantidade_processos": 1,
+                    "label": "AUTORA"
+                },
+                {
+                    "quantidade_processos": 1,
+                    "label": "EMBARGTE"
+                },
+                {
+                    "quantidade_processos": 1,
+                    "label": "IMPETRANTE"
+                }
+            ],
+            "tem_processo": 1,
+            "slug": "thais-helena-teixeira-amorim-fraga-netto",
+            "url_id": 126462557,
+            "link": "https://www.escavador.com/sobre/126462557/thais-helena-teixeira-amorim-fraga-netto",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/24554597",
+            "oab_numero": "240684/SP",
+            "tem_curriculo": 0,
+            "updated_at": "2021-04-16 11:27:44",
+            "tem_patente": 0
+        },
+        {
+            "id": 24959481,
+            "nome": "Maria Aparecida Teixeira Correa",
+            "resumo": "De acordo com os dados indexados: Maria Aparecida Teixeira Correa possui 14 processos indexados, até então, pelo Escavador. Com 13 processos no Estado de São Paulo, além de 1 processo no Brasil. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/29124355/fazenda-do-estado-de-sao-paulo' title='Fazenda do Estado de São Paulo'>Fazenda do Estado de São Paulo</a> foi a parte que mais apareceu, totalizando 3 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/126586717/banco-do-brasil-s-a' title='‘Banco do Brasil S/A'>‘Banco do Brasil S/A</a> com 2 ou mais processos. Seu advogado(a) com mais processos aqui é <a class='link -color' href='https://www.escavador.com/sobre/10066595/mario-luis-fraga-netto' title='Mário Luis Fraga Netto'>Mário Luis Fraga Netto</a>, com 1 processo, seguido por <a class='link -color' href='https://www.escavador.com/sobre/10096410/andrea-pesse-vescove' title='Andrea Pesse Vescove'>Andrea Pesse Vescove</a>, com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 14,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "maria-aparecida-teixeira-correa",
+            "url_id": 128060921,
+            "link": "https://www.escavador.com/sobre/128060921/maria-aparecida-teixeira-correa",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/24959481",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-03-13 00:45:34",
+            "tem_patente": 0
+        },
+        {
+            "id": 26067629,
+            "nome": "Sueli Torres",
+            "resumo": "De acordo com os dados indexados: Sueli Torres possui 13 processos indexados, até então, pelo Escavador. Com 12 processos no Estado de São Paulo, além de 1 processo no Brasil. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24881629/instituto-nacional-do-seguro-social-inss' title='Instituto Nacional do Seguro Social - Inss'>Instituto Nacional do Seguro Social - Inss</a> foi a parte que mais apareceu, totalizando 2 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/126462557/thais-helena-teixeira-amorim-fraga-netto' title='Thais Helena Teixeira Amorim Fraga Netto'>Thais Helena Teixeira Amorim Fraga Netto</a> com 1 processo. Todos os processos indexados são do Advogado(a) <a class='link -color' href='https://www.escavador.com/sobre/9918441/torquato-de-godoy' title='Torquato de Godoy'>Torquato de Godoy</a>.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 13,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "sueli-torres",
+            "url_id": 133636235,
+            "link": "https://www.escavador.com/sobre/133636235/sueli-torres",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/26067629",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-04-15 07:25:51",
+            "tem_patente": 0
+        },
+        {
+            "id": 12587127,
+            "nome": "Ana Regina Rezende Vidrich",
+            "resumo": "De acordo com os dados indexados: Ana Regina Rezende Vidrich possui 13 processos indexados, até então, pelo Escavador. Com 12 processos no Estado de São Paulo, além de 1 processo no Brasil. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/126462557/thais-helena-teixeira-amorim-fraga-netto' title='Thais Helena Teixeira Amorim Fraga Netto'>Thais Helena Teixeira Amorim Fraga Netto</a> foi a parte que mais apareceu, totalizando 3 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/12809511/augusto-spada-filho' title='Augusto Spada Filho'>Augusto Spada Filho</a> com 2 ou mais processos. Todos os processos indexados são do Advogado(a) <a class='link -color' href='https://www.escavador.com/sobre/9937542/jose-aparecido-de-almeida' title='José Aparecido de Almeida, Dr.'>José Aparecido de Almeida, Dr.</a>.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 13,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "ana-regina-rezende-vidrich",
+            "url_id": 12809489,
+            "link": "https://www.escavador.com/sobre/12809489/ana-regina-rezende-vidrich",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/12587127",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-04-07 05:50:16",
+            "tem_patente": 0
+        },
+        {
+            "id": 35146179,
+            "nome": "Zilda Santello Souza",
+            "resumo": "De acordo com os dados indexados: Zilda Santello Souza possui 12 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/126462557/thais-helena-teixeira-amorim-fraga-netto' title='Thais Helena Teixeira Amorim Fraga Netto'>Thais Helena Teixeira Amorim Fraga Netto</a> foi a parte que mais apareceu, totalizando 3 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/26422210/sao-paulo-previdencia-spprev' title='Sao Paulo Previdencia - Spprev'>Sao Paulo Previdencia - Spprev</a> com 3 ou mais processos. Todos os processos indexados são do Advogado(a) <a class='link -color' href='https://www.escavador.com/sobre/9937810/james-ricardo' title='James Ricardo'>James Ricardo</a>.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 12,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "zilda-santello-souza",
+            "url_id": 244825849,
+            "link": "https://www.escavador.com/sobre/244825849/zilda-santello-souza",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/35146179",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-04-09 07:55:53",
+            "tem_patente": 0
+        },
+        {
+            "id": 24993298,
+            "nome": "José Carlos Romani Martoni",
+            "resumo": "De acordo com os dados indexados: José Carlos Romani Martoni possui 10 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/128225919/aldo-tadeu-martoni' title='Aldo Tadeu Martoni'>Aldo Tadeu Martoni</a> foi a parte que mais apareceu, totalizando 2 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/135001465/claudio-romani-martoni' title='Claudio Romani Martoni'>Claudio Romani Martoni</a> com 1 processo. Seu advogado(a) com mais processos aqui é <a class='link -color' href='https://www.escavador.com/sobre/10196147/cristina-reia-cardia' title='Cristina Reia Cardia'>Cristina Reia Cardia</a>, com 2 processos, seguido por <a class='link -color' href='https://www.escavador.com/sobre/126462557/thais-helena-teixeira-amorim-fraga-netto' title='Thais Helena Teixeira Amorim Fraga Netto'>Thais Helena Teixeira Amorim Fraga Netto</a>, com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 10,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "jose-carlos-romani-martoni",
+            "url_id": 128225918,
+            "link": "https://www.escavador.com/sobre/128225918/jose-carlos-romani-martoni",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/24993298",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-02-08 05:45:47",
+            "tem_patente": 0
+        },
+        {
+            "id": 50990790,
+            "nome": "Marina Yamashita",
+            "resumo": "De acordo com os dados indexados: Marina Yamashita possui 10 processos indexados, até então, pelo Escavador. Com 9 processos no Estado de São Paulo, além de 1 processo no Brasil. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/26422210/sao-paulo-previdencia-spprev' title='Sao Paulo Previdencia - Spprev'>Sao Paulo Previdencia - Spprev</a> foi a parte que mais apareceu, totalizando 4 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/126462557/thais-helena-teixeira-amorim-fraga-netto' title='Thais Helena Teixeira Amorim Fraga Netto'>Thais Helena Teixeira Amorim Fraga Netto</a> com 3 ou mais processos. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 10,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "marina-yamashita",
+            "url_id": 398248805,
+            "link": "https://www.escavador.com/sobre/398248805/marina-yamashita",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/50990790",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-03-30 07:45:52",
+            "tem_patente": 0
+        },
+        {
+            "id": 55629849,
+            "nome": "Aparecida Taschim Cristovam",
+            "resumo": "De acordo com os dados indexados: Aparecida Taschim Cristovam possui 10 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/26422210/sao-paulo-previdencia-spprev' title='Sao Paulo Previdencia - Spprev'>Sao Paulo Previdencia - Spprev</a> foi a parte que mais apareceu, totalizando 3 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/126462557/thais-helena-teixeira-amorim-fraga-netto' title='Thais Helena Teixeira Amorim Fraga Netto'>Thais Helena Teixeira Amorim Fraga Netto</a> com 2 ou mais processos. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 10,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "aparecida-taschim-cristovam",
+            "url_id": 456900776,
+            "link": "https://www.escavador.com/sobre/456900776/aparecida-taschim-cristovam",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/55629849",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-03-13 06:31:08",
+            "tem_patente": 0
+        },
+        {
+            "id": 31006871,
+            "nome": "Darci Aparecida da Silva Marin",
+            "resumo": "De acordo com os dados indexados: Darci Aparecida da Silva Marin possui 9 processos indexados, até então, pelo Escavador. Com 8 processos no Estado de São Paulo, além de 1 processo no Brasil. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/29124355/fazenda-do-estado-de-sao-paulo' title='Fazenda do Estado de São Paulo'>Fazenda do Estado de São Paulo</a> foi a parte que mais apareceu, totalizando 2 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/126462557/thais-helena-teixeira-amorim-fraga-netto' title='Thais Helena Teixeira Amorim Fraga Netto'>Thais Helena Teixeira Amorim Fraga Netto</a> com 2 ou mais processos. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 9,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "darci-aparecida-da-silva-marin",
+            "url_id": 193180433,
+            "link": "https://www.escavador.com/sobre/193180433/darci-aparecida-da-silva-marin",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/31006871",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-03-19 11:06:11",
+            "tem_patente": 0
+        },
+        {
+            "id": 30956359,
+            "nome": "Alice da Silva Candeloro",
+            "resumo": "De acordo com os dados indexados: Alice da Silva Candeloro possui 9 processos indexados, até então, pelo Escavador. Com 7 processos no Estado de São Paulo, além de 2 processos no Brasil. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/29119460/estado-de-sao-paulo' title='Estado de São Paulo'>Estado de São Paulo</a> foi a parte que mais apareceu, totalizando 2 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/126462557/thais-helena-teixeira-amorim-fraga-netto' title='Thais Helena Teixeira Amorim Fraga Netto'>Thais Helena Teixeira Amorim Fraga Netto</a> com 2 ou mais processos. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 9,
+            "tipos_juridico": [
+                {
+                    "quantidade_processos": 2,
+                    "label": "AGRAVADA"
+                },
+                {
+                    "quantidade_processos": 2,
+                    "label": "RECORRIDO"
+                },
+                {
+                    "quantidade_processos": 2,
+                    "label": "REQUERIDA"
+                },
+                {
+                    "quantidade_processos": 1,
+                    "label": "APELADA"
+                },
+                {
+                    "quantidade_processos": 1,
+                    "label": "EMBARGADA"
+                },
+                {
+                    "quantidade_processos": 1,
+                    "label": "EXEQUENTE"
+                },
+                {
+                    "quantidade_processos": 1,
+                    "label": "REQUERENTE"
+                }
+            ],
+            "tem_processo": 1,
+            "slug": "alice-da-silva-candeloro",
+            "url_id": 192325408,
+            "link": "https://www.escavador.com/sobre/192325408/alice-da-silva-candeloro",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/30956359",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-04-13 06:30:39",
+            "tem_patente": 0
+        },
+        {
+            "id": 28837095,
+            "nome": "Nair Martins Gonçalves",
+            "resumo": "De acordo com os dados indexados: Nair Martins Gonçalves possui 8 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/126462557/thais-helena-teixeira-amorim-fraga-netto' title='Thais Helena Teixeira Amorim Fraga Netto'>Thais Helena Teixeira Amorim Fraga Netto</a> foi a parte que mais apareceu, totalizando 3 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/26422210/sao-paulo-previdencia-spprev' title='Sao Paulo Previdencia - Spprev'>Sao Paulo Previdencia - Spprev</a> com 3 ou mais processos. Todos os processos indexados são do Advogado(a) <a class='link -color' href='https://www.escavador.com/sobre/126368401/saulo-cesar-sartori' title='Saulo Cesar Sartori'>Saulo Cesar Sartori</a>.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 8,
+            "tipos_juridico": [
+                {
+                    "quantidade_processos": 2,
+                    "label": "APELADA"
+                },
+                {
+                    "quantidade_processos": 1,
+                    "label": "EXEQUENTE"
+                },
+                {
+                    "quantidade_processos": 1,
+                    "label": "RECORRIDA"
+                }
+            ],
+            "tem_processo": 1,
+            "slug": "nair-martins-goncalves",
+            "url_id": 158455840,
+            "link": "https://www.escavador.com/sobre/158455840/nair-martins-goncalves",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/28837095",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-04-06 11:00:47",
+            "tem_patente": 0
+        },
+        {
+            "id": 28394227,
+            "nome": "Guiomar Toledo Razaboni",
+            "resumo": "De acordo com os dados indexados: Guiomar Toledo Razaboni possui 8 processos indexados, até então, pelo Escavador. Com 7 processos no Estado de São Paulo, além de 1 processo no Brasil. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/29119460/estado-de-sao-paulo' title='Estado de São Paulo'>Estado de São Paulo</a> foi a parte que mais apareceu, totalizando 3 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/126462557/thais-helena-teixeira-amorim-fraga-netto' title='Thais Helena Teixeira Amorim Fraga Netto'>Thais Helena Teixeira Amorim Fraga Netto</a> com 2 ou mais processos. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 8,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "guiomar-toledo-razaboni",
+            "url_id": 152710146,
+            "link": "https://www.escavador.com/sobre/152710146/guiomar-toledo-razaboni",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/28394227",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-04-14 07:45:18",
+            "tem_patente": 0
+        },
+        {
+            "id": 29754800,
+            "nome": "Debora Maurilia Nascimento Leite",
+            "resumo": "De acordo com os dados indexados: Debora Maurilia Nascimento Leite possui 7 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24733376/banco-santander-brasil-s-a' title='Banco Santander Brasil S/A'>Banco Santander Brasil S/A</a> foi a parte que mais apareceu, totalizando 2 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/126462557/thais-helena-teixeira-amorim-fraga-netto' title='Thais Helena Teixeira Amorim Fraga Netto'>Thais Helena Teixeira Amorim Fraga Netto</a> com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 7,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "debora-maurilia-nascimento-leite",
+            "url_id": 172935015,
+            "link": "https://www.escavador.com/sobre/172935015/debora-maurilia-nascimento-leite",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/29754800",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-09-15 16:30:57",
+            "tem_patente": 0
+        },
+        {
+            "id": 25115521,
+            "nome": "Angélica Maria Teixeira",
+            "resumo": "De acordo com os dados indexados: Angélica Maria Teixeira possui 6 processos indexados, até então, pelo Escavador. Com 5 processos no Estado de São Paulo, além de 1 processo no Brasil. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/26422210/sao-paulo-previdencia-spprev' title='Sao Paulo Previdencia - Spprev'>Sao Paulo Previdencia - Spprev</a> foi a parte que mais apareceu, totalizando 2 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/126359698/juizo-ex-officio' title='Juizo Ex Officio'>Juizo Ex Officio</a> com 2 ou mais processos. Seu advogado(a) com mais processos aqui é <a class='link -color' href='https://www.escavador.com/sobre/10066595/mario-luis-fraga-netto' title='Mário Luis Fraga Netto'>Mário Luis Fraga Netto</a>, com 1 processo, seguido por <a class='link -color' href='https://www.escavador.com/sobre/126374708/debora-cristina-de-fatima-g-ribeiro' title='Debora Cristina de Fatima G Ribeiro'>Debora Cristina de Fatima G Ribeiro</a>, com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 6,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "angelica-maria-teixeira",
+            "url_id": 128744814,
+            "link": "https://www.escavador.com/sobre/128744814/angelica-maria-teixeira",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/25115521",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-11-12 08:31:54",
+            "tem_patente": 0
+        },
+        {
+            "id": 25851409,
+            "nome": "Benedito Mathias",
+            "resumo": "De acordo com os dados indexados: Benedito Mathias possui 26 processos indexados, até então, pelo Escavador. Com 25 processos no Estado de São Paulo, além de 1 processo no Brasil. Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/26422210/sao-paulo-previdencia-spprev' title='Sao Paulo Previdencia - Spprev'>Sao Paulo Previdencia - Spprev</a> foi a parte que mais apareceu, totalizando 5 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/126462557/thais-helena-teixeira-amorim-fraga-netto' title='Thais Helena Teixeira Amorim Fraga Netto'>Thais Helena Teixeira Amorim Fraga Netto</a> com 3 ou mais processos. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 26,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "benedito-mathias",
+            "url_id": 132447816,
+            "link": "https://www.escavador.com/sobre/132447816/benedito-mathias",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/25851409",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-04-14 06:30:41",
+            "tem_patente": 0
+        },
+        {
+            "id": 29126473,
+            "nome": "Claudia Mara Estevam",
+            "resumo": "De acordo com os dados indexados: Claudia Mara Estevam possui 5 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/27068951/instituto-nacional-do-seguro-social-inss' title='Instituto Nacional do Seguro Social Inss'>Instituto Nacional do Seguro Social Inss</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/230737371/sandra-maria-trench-conceicao-avare-me' title='Sandra Maria Trench Conceição Avare - Me'>Sandra Maria Trench Conceição Avare - Me</a> com 1 processo. Todos os processos indexados são do Advogado(a) <a class='link -color' href='https://www.escavador.com/sobre/126462557/thais-helena-teixeira-amorim-fraga-netto' title='Thais Helena Teixeira Amorim Fraga Netto'>Thais Helena Teixeira Amorim Fraga Netto</a>.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 5,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "claudia-mara-estevam",
+            "url_id": 162669733,
+            "link": "https://www.escavador.com/sobre/162669733/claudia-mara-estevam",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/29126473",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-03-15 01:05:47",
+            "tem_patente": 0
+        },
+        {
+            "id": 29846159,
+            "nome": "Fátima Regina Pessuto Piva",
+            "resumo": "De acordo com os dados indexados: Fátima Regina Pessuto Piva possui 5 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/29119460/estado-de-sao-paulo' title='Estado de São Paulo'>Estado de São Paulo</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/126462557/thais-helena-teixeira-amorim-fraga-netto' title='Thais Helena Teixeira Amorim Fraga Netto'>Thais Helena Teixeira Amorim Fraga Netto</a> com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 5,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "fatima-regina-pessuto-piva",
+            "url_id": 174603209,
+            "link": "https://www.escavador.com/sobre/174603209/fatima-regina-pessuto-piva",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/29846159",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-04-07 08:05:47",
+            "tem_patente": 0
+        }
+    ],
+    "filtros": [
+        {
+            "titulo": "Tipos",
+            "valor": "pt",
+            "opcoes": [
+                {
+                    "valor": "curriculo",
+                    "quantidade_correspondencias": 2
+                },
+                {
+                    "valor": "partes",
+                    "quantidade_correspondencias": 132
+                }
+            ]
+        }
+    ]
+}
+
+{
+    "paginator": {
+        "total": 49,
+        "total_pages": 3,
+        "current_page": 1,
+        "per_page": 20
+    },
+    "links": {
+        "prev": null,
+        "next": "https://api.escavador.com/api/v1/busca?q=Dimas%20Soares%20Lima&qo=p&page=2"
+    },
+    "items": [
+        {
+            "id": 37651113,
+            "nome": "Dimas Soares Lima",
+            "resumo": "Possui graduação em Estatística pela Universidade Federal do Rio de Janeiro (2017) e atualmente cursa Mestrado em Estatística pela Universidade Federal do Rio de Janeiro. Tem experiência em Probabilidade e Estatística, com ênfase em Probabilidade e Estatística aplicada. Tem interesse em Inferência Bayesiana, Estatística Computacional, Aprendizado de Máquina e Ciência de Dados em geral.<br />",
+            "atuacao_formacao": [
+                {
+                    "ano_inicio": 2018,
+                    "tipo": "formacao",
+                    "descricao": "Mestrado em andamento em Estatística",
+                    "instituicao": "Universidade Federal do Rio de Janeiro"
+                },
+                {
+                    "ano_inicio": 2013,
+                    "tipo": "formacao",
+                    "descricao": "Graduação em Estatística",
+                    "instituicao": "Universidade Federal do Rio de Janeiro",
+                    "ano_fim": 2018
+                },
+                {
+                    "ano_inicio": 2018,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Bolsista, Enquadramento Funcional: Monitor, Carga horária: 10",
+                    "instituicao": "Universidade Federal do Rio de Janeiro"
+                },
+                {
+                    "ano_inicio": 2016,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Bolsista, Enquadramento Funcional: Aluno Pesquisador, Carga horária: 20",
+                    "instituicao": "Universidade Federal do Rio de Janeiro",
+                    "ano_fim": 2018
+                }
+            ],
+            "nome_em_citacoes": "LIMA, D. S.",
+            "quantidade_processos": 0,
+            "tipos_juridico": null,
+            "tem_processo": 0,
+            "slug": "dimas-soares-lima",
+            "url_id": 277601033,
+            "link": "https://www.escavador.com/sobre/277601033/dimas-soares-lima",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/37651113",
+            "oab_numero": null,
+            "tem_curriculo": 1,
+            "updated_at": "2020-03-17 07:11:05",
+            "tem_patente": 0
+        },
+        {
+            "id": 16598662,
+            "nome": "Dimas Itamar Soares de Lima",
+            "resumo": "De acordo com os dados indexados: Dimas Itamar Soares de Lima possui 3 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/27812973/supermercado-asa-delta-ltda' title='Supermercado Asa Delta Ltda'>Supermercado Asa Delta Ltda</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/27068951/instituto-nacional-do-seguro-social-inss' title='Instituto Nacional do Seguro Social Inss'>Instituto Nacional do Seguro Social Inss</a> com 1 processo. Todos os processos indexados são do Advogado(a) <a class='link -color' href='https://www.escavador.com/sobre/9919483/antonio-carlos-pereira-junior' title='Antonio Carlos Pereira Júnior'>Antonio Carlos Pereira Júnior</a>.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 3,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "dimas-itamar-soares-de-lima",
+            "url_id": 16821024,
+            "link": "https://www.escavador.com/sobre/16821024/dimas-itamar-soares-de-lima",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/16598662",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-06-18 21:55:47",
+            "tem_patente": 0
+        },
+        {
+            "id": 20597363,
+            "nome": "Dimas Magalhaes Soares de Lima",
+            "resumo": "De acordo com os dados indexados: Dimas Magalhaes Soares de Lima possui 2 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado do Paraná.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/28448288/alves-silva-manutencao-eletrica-ltda' title='Alves &amp; Silva Manutencao Eletrica Ltda'>Alves & Silva Manutencao Eletrica Ltda</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/27329245/eletrolack-pinturas-tecnicas-ltda' title='Eletrolack Pinturas Tecnicas Ltda'>Eletrolack Pinturas Tecnicas Ltda</a> com 1 processo. Seu advogado(a) com mais processos aqui é <a class='link -color' href='https://www.escavador.com/sobre/9909784/robson-falcao-vieira' title='Robson Falcao Vieira'>Robson Falcao Vieira</a>, com 1 processo, seguido por <a class='link -color' href='https://www.escavador.com/sobre/10114578/jose-antonio-nunes' title='Jose Antonio Nunes'>Jose Antonio Nunes</a>, com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 2,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "dimas-magalhaes-soares-de-lima",
+            "url_id": 20819725,
+            "link": "https://www.escavador.com/sobre/20819725/dimas-magalhaes-soares-de-lima",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/20597363",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-03-11 01:25:54",
+            "tem_patente": 0
+        },
+        {
+            "id": 64396019,
+            "nome": "Dimas Itamar Soares de Lima",
+            "resumo": "De acordo com os dados indexados: Dimas Itamar Soares de Lima possui 2 processos indexados, até então, pelo Escavador. Com todos os seus processos no Brasil.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/28626493/instituto-nacional-do-seguro-social-inss' title='Instituto Nacional do Seguro Social - I.N.S.S'>Instituto Nacional do Seguro Social - I.N.S.S</a> foi a parte que mais apareceu, totalizando 2 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/24575184/instituto-nacional-do-seguro-social' title='Instituto Nacional do Seguro Social'>Instituto Nacional do Seguro Social</a> com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 2,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "dimas-itamar-soares-de-lima",
+            "url_id": 564323239,
+            "link": "https://www.escavador.com/sobre/564323239/dimas-itamar-soares-de-lima",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/64396019",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-04-07 11:40:49",
+            "tem_patente": 0
+        },
+        {
+            "id": 31496569,
+            "nome": "Tarcísio Dimas Soares de Lima",
+            "resumo": "",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 0,
+            "tipos_juridico": null,
+            "tem_processo": 0,
+            "slug": "tarcisio-dimas-soares-de-lima",
+            "url_id": 198625628,
+            "link": "https://www.escavador.com/sobre/198625628/tarcisio-dimas-soares-de-lima",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/31496569",
+            "oab_numero": null,
+            "tem_curriculo": 1,
+            "updated_at": "2020-03-15 16:10:33",
+            "tem_patente": 0
+        },
+        {
+            "id": 15742937,
+            "nome": "Dimas Soares da Silva Filho",
+            "resumo": "De acordo com os dados indexados: Dimas Soares da Silva Filho possui 3 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de Alagoas.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/27063683/companhia-energetica-de-alagoas-ceal' title='Companhia Energetica de Alagoas - Ceal'>Companhia Energetica de Alagoas - Ceal</a> foi a parte que mais apareceu, totalizando 3 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/667479906/equatorial-alagoas-distribuidora-de-energia-s-a' title='Equatorial Alagoas Distribuidora de Energia S/A'>Equatorial Alagoas Distribuidora de Energia S/A</a> com 1 processo. Seu advogado(a) com mais processos aqui é <a class='link -color' href='https://www.escavador.com/sobre/9928916/rosalio-leopoldo-de-souza' title='Rosalio Leopoldo de Souza- Oab/Al 3567'>Rosalio Leopoldo de Souza- Oab/Al 3567</a>, com 2 processos, seguido por <a class='link -color' href='https://www.escavador.com/sobre/9928678/sergio-batista-de-lima' title='Sergio Batista de Lima'>Sergio Batista de Lima</a>, com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 3,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "dimas-soares-da-silva-filho",
+            "url_id": 15965299,
+            "link": "https://www.escavador.com/sobre/15965299/dimas-soares-da-silva-filho",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/15742937",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-02-27 03:35:46",
+            "tem_patente": 0
+        },
+        {
+            "id": 23400143,
+            "nome": "Benedito Dimas Soares",
+            "resumo": "De acordo com os dados indexados: Benedito Dimas Soares possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de Minas Gerais.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/23622504/maria-de-fatima-lima-soares' title='Maria de Fatima Lima Soares'>Maria de Fatima Lima Soares</a> foi a parte que mais apareceu, com 1 processo.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 1,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "benedito-dimas-soares",
+            "url_id": 23622505,
+            "link": "https://www.escavador.com/sobre/23622505/benedito-dimas-soares",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/23400143",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-03-12 00:55:44",
+            "tem_patente": 0
+        },
+        {
+            "id": 18600380,
+            "nome": "Jose Dimas Lima",
+            "resumo": "De acordo com os dados indexados: Jose Dimas Lima possui 3 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/18265552/evelton-raimundo-de-aguiar' title='Evelton Raimundo de Aguiar'>Evelton Raimundo de Aguiar</a> foi a parte que mais apareceu, com 2 ou mais processos.Todos os processos indexados são do Advogado(a) <a class='link -color' href='https://www.escavador.com/sobre/9913180/tarcisio-rodolfo-soares' title='Tarcísio Rodolfo Soares'>Tarcísio Rodolfo Soares</a>.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 3,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "jose-dimas-lima",
+            "url_id": 18822742,
+            "link": "https://www.escavador.com/sobre/18822742/jose-dimas-lima",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/18600380",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-06-18 11:26:04",
+            "tem_patente": 0
+        },
+        {
+            "id": 26865099,
+            "nome": "Maria da Conceição Soares de Lima",
+            "resumo": "De acordo com os dados indexados: Maria da Conceição Soares de Lima possui 7 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/29124355/fazenda-do-estado-de-sao-paulo' title='Fazenda do Estado de São Paulo'>Fazenda do Estado de São Paulo</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/126374401/paulo-dimas-mascaretti' title='Paulo Dimas Mascaretti'>Paulo Dimas Mascaretti</a> com 1 processo. Todos os processos indexados são do Advogado(a) <a class='link -color' href='https://www.escavador.com/sobre/10009924/gabriel-santos-mevis' title='Gabriel Santos Mevis'>Gabriel Santos Mevis</a>.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 7,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "maria-da-conceicao-soares-de-lima",
+            "url_id": 138743754,
+            "link": "https://www.escavador.com/sobre/138743754/maria-da-conceicao-soares-de-lima",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/26865099",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-04-10 04:15:46",
+            "tem_patente": 0
+        },
+        {
+            "id": 13507597,
+            "nome": "Dimas Pires de Lima",
+            "resumo": "De acordo com os dados indexados: Dimas Pires de Lima possui 6 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/29123001/prefeitura-municipal-de-taubate' title='Prefeitura Municipal de Taubaté'>Prefeitura Municipal de Taubaté</a> foi a parte que mais apareceu, totalizando 3 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/13729958/pamela-cristina-nunes-soares' title='Pamela Cristina Nunes Soares'>Pamela Cristina Nunes Soares</a> com 1 processo. Todos os processos indexados são do Advogado(a) <a class='link -color' href='https://www.escavador.com/sobre/10040926/allan-francisco-mesquita-marcal' title='Allan Francisco Mesquita Marcal'>Allan Francisco Mesquita Marcal</a>.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 6,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "dimas-pires-de-lima",
+            "url_id": 13729959,
+            "link": "https://www.escavador.com/sobre/13729959/dimas-pires-de-lima",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/13507597",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-02-25 00:04:35",
+            "tem_patente": 0
+        },
+        {
+            "id": 48349228,
+            "nome": "Clanecy Alves Soares Lima",
+            "resumo": "Possui ensino-medio-segundo-grau pela Escola Estadual Dimas Simas Lima(2013).<br />",
+            "atuacao_formacao": [
+                {
+                    "ano_inicio": 2014,
+                    "tipo": "formacao",
+                    "descricao": "Graduação em andamento em Enfermagem",
+                    "instituicao": "Faculdade Santa Terezinha - CEST"
+                },
+                {
+                    "ano_inicio": 2010,
+                    "tipo": "formacao",
+                    "descricao": "Ensino Médio (2º grau)",
+                    "instituicao": "Escola Estadual Dimas Simas Lima",
+                    "ano_fim": 2013
+                }
+            ],
+            "nome_em_citacoes": "LIMA, C. A. S.",
+            "quantidade_processos": 0,
+            "tipos_juridico": null,
+            "tem_processo": 0,
+            "slug": "clanecy-alves-soares-lima",
+            "url_id": 378687024,
+            "link": "https://www.escavador.com/sobre/378687024/clanecy-alves-soares-lima",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/48349228",
+            "oab_numero": null,
+            "tem_curriculo": 1,
+            "updated_at": "2020-03-20 01:25:43",
+            "tem_patente": 0
+        },
+        {
+            "id": 15788430,
+            "nome": "Wellington Dimas de Lima",
+            "resumo": "De acordo com os dados indexados: Wellington Dimas de Lima possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de Acre e Rondônia.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24694829/net-servicos-de-comunicacao-s-a' title='Net Serviços de Comunicação S/A'>Net Serviços de Comunicação S/A</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/27057072/m-b-s-telecom-epp' title='M B S Telecom - Epp'>M B S Telecom - Epp</a> com 1 processo. Todos os processos indexados são do Advogado(a) <a class='link -color' href='https://www.escavador.com/sobre/9919864/jose-stenio-soares-lima-junior' title='Jose Stenio Soares Lima Junior'>Jose Stenio Soares Lima Junior</a>.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 1,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "wellington-dimas-de-lima",
+            "url_id": 16010792,
+            "link": "https://www.escavador.com/sobre/16010792/wellington-dimas-de-lima",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/15788430",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-03-05 20:41:27",
+            "tem_patente": 0
+        },
+        {
+            "id": 28325326,
+            "nome": "Mário Dimas Acosta Lima",
+            "resumo": "De acordo com os dados indexados: Mário Dimas Acosta Lima possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado do Rio de Janeiro.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/123589241/soares-filho-comunicacoes-integradas-ltda' title='Soares Filho Comunicações Integradas Ltda'>Soares Filho Comunicações Integradas Ltda</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/152042414/radio-litoral-de-casimiro-de-abreu-ltda' title='Rádio Litoral de Casimiro de Abreu Ltda'>Rádio Litoral de Casimiro de Abreu Ltda</a> com 1 processo. Todos os processos indexados são do Advogado(a) <a class='link -color' href='https://www.escavador.com/sobre/10047662/antonio-luiz-soares-da-silva' title='Antonio Luiz Soares da Silva'>Antonio Luiz Soares da Silva</a>.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 1,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "mario-dimas-acosta-lima",
+            "url_id": 152042413,
+            "link": "https://www.escavador.com/sobre/152042413/mario-dimas-acosta-lima",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/28325326",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-03-14 20:10:50",
+            "tem_patente": 0
+        },
+        {
+            "id": 16908106,
+            "nome": "Sabrina Dimas de Lima",
+            "resumo": "De acordo com os dados indexados: Sabrina Dimas de Lima possui 3 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de Minas Gerais.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/27864805/sfc-alimentos-ltda' title='Sfc Alimentos Ltda'>Sfc Alimentos Ltda</a> foi a parte que mais apareceu, totalizando 3 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/21364108/rafaela-ferraz-maia' title='Rafaela Ferraz Maia'>Rafaela Ferraz Maia</a> com 3 ou mais processos. Seu advogado(a) com mais processos aqui é <a class='link -color' href='https://www.escavador.com/sobre/9990632/mauricio-xavier-soares-junior' title='Mauricio Xavier Soares Junior'>Mauricio Xavier Soares Junior</a>, com 1 processo, seguido por <a class='link -color' href='https://www.escavador.com/sobre/10080090/kayo-philipe-benichio-ribeiro-de-oliveira-brito' title='Kayo Philipe Benichio Ribeiro de Oliveira Brito'>Kayo Philipe Benichio Ribeiro de Oliveira Brito</a>, com 2 processos. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 3,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "sabrina-dimas-de-lima",
+            "url_id": 17130468,
+            "link": "https://www.escavador.com/sobre/17130468/sabrina-dimas-de-lima",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/16908106",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-04-17 02:11:46",
+            "tem_patente": 0
+        },
+        {
+            "id": 16419613,
+            "nome": "Dimas Paulino de Lima",
+            "resumo": "De acordo com os dados indexados: Dimas Paulino de Lima possui 3 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado do Rio de Janeiro.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/27096027/mendes-valle-engenharia-ltda' title='Mendes &amp; Valle Engenharia Ltda'>Mendes & Valle Engenharia Ltda</a> foi a parte que mais apareceu, totalizando 3 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/27782559/rio-design-barra-shopping-center-ltda' title='Rio Design Barra Shopping Center Ltda'>Rio Design Barra Shopping Center Ltda</a> com 2 ou mais processos. Seu advogado(a) com mais processos aqui é <a class='link -color' href='https://www.escavador.com/sobre/9981529/milton-soares-de-araujo' title='Milton Soares de Araujo'>Milton Soares de Araujo</a>, com 2 processos, seguido por <a class='link -color' href='https://www.escavador.com/sobre/9981530/arnaldo-soares-de-araujo' title='Arnaldo Soares de Araujo'>Arnaldo Soares de Araujo</a>, com 2 processos. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 3,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "dimas-paulino-de-lima",
+            "url_id": 16641975,
+            "link": "https://www.escavador.com/sobre/16641975/dimas-paulino-de-lima",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/16419613",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-02-23 19:21:18",
+            "tem_patente": 0
+        },
+        {
+            "id": 63153913,
+            "nome": "Dimas Batista Lima de Carvalho",
+            "resumo": "De acordo com os dados indexados: Dimas Batista Lima de Carvalho é Advogado(a) e possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado do Piauí.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/318193126/paulo-augusto-soares-de-sousa' title='Paulo Augusto Soares de Sousa'>Paulo Augusto Soares de Sousa</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/340429431/jose-valdo-soares-rocha' title='Jose Valdo Soares Rocha'>Jose Valdo Soares Rocha</a> com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 1,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "dimas-batista-lima-de-carvalho",
+            "url_id": 554486929,
+            "link": "https://www.escavador.com/sobre/554486929/dimas-batista-lima-de-carvalho",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/63153913",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-01-28 08:09:20",
+            "tem_patente": 0
+        },
+        {
+            "id": 60844655,
+            "nome": "Ilayne Tayra Soares de Lima",
+            "resumo": "De acordo com os dados indexados: Ilayne Tayra Soares de Lima possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/25852034/aymore-credito-financiamento-e-investimento-s-a' title='Aymore Credito, Financiamento e Investimento S/A'>Aymore Credito, Financiamento e Investimento S/A</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/256824198/fernando-dimas-de-assis-santos' title='Fernando Dimas de Assis Santos'>Fernando Dimas de Assis Santos</a> com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 1,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "ilayne-tayra-soares-de-lima",
+            "url_id": 524166542,
+            "link": "https://www.escavador.com/sobre/524166542/ilayne-tayra-soares-de-lima",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/60844655",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-01-26 15:18:53",
+            "tem_patente": 0
+        },
+        {
+            "id": 16927175,
+            "nome": "Jose Dimas",
+            "resumo": "De acordo com os dados indexados: Jose Dimas possui 14 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/29121922/prefeitura-municipal-de-carapicuiba' title='Prefeitura Municipal de Carapicuiba'>Prefeitura Municipal de Carapicuiba</a> foi a parte que mais apareceu, totalizando 3 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/28129967/orizicola-do-vale-alimentos-ltda' title='Orizicola do Vale Alimentos Ltda'>Orizicola do Vale Alimentos Ltda</a> com 2 ou mais processos. Seu advogado(a) com mais processos aqui é <a class='link -color' href='https://www.escavador.com/sobre/9939873/tania-aparecida-da-conceicao-ramos-de-souza' title='Tânia Aparecida da Conceição Ramos de Souza'>Tânia Aparecida da Conceição Ramos de Souza</a>, com 1 processo, seguido por <a class='link -color' href='https://www.escavador.com/sobre/10180147/adauane-lima-leal-soares' title='Adauane Lima Leal Soares'>Adauane Lima Leal Soares</a>, com 2 processos. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 14,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "jose-dimas",
+            "url_id": 17149537,
+            "link": "https://www.escavador.com/sobre/17149537/jose-dimas",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/16927175",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-02-23 06:25:54",
+            "tem_patente": 0
+        },
+        {
+            "id": 17632477,
+            "nome": "Dimas Gomes Pereira",
+            "resumo": "De acordo com os dados indexados: Dimas Gomes Pereira possui 7 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/27054935/oi-movel-s-a' title='Oi Movel S/A'>Oi Movel S/A</a> foi a parte que mais apareceu, totalizando 2 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/27121101/municipio-de-itanhaem' title='Municipio de Itanhaem'>Municipio de Itanhaem</a> com 1 processo. Todos os processos indexados são do Advogado(a) <a class='link -color' href='https://www.escavador.com/sobre/9935886/cicero-soares-de-lima-filho' title='Cicero Soares de Lima Filho'>Cicero Soares de Lima Filho</a>.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 7,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "dimas-gomes-pereira",
+            "url_id": 17854839,
+            "link": "https://www.escavador.com/sobre/17854839/dimas-gomes-pereira",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/17632477",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-04-12 10:50:52",
+            "tem_patente": 0
+        },
+        {
+            "id": 33836271,
+            "nome": "Jane Tiburcio de Lima",
+            "resumo": "De acordo com os dados indexados: Jane Tiburcio de Lima é Advogado(a) e possui 7 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de Alagoas.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/29118814/associacao-unificada-paulista-de-ensino-renovado-objetivo-assupero' title='Associação Unificada Paulista de Ensino Renovado Objetivo - Assupero'>Associação Unificada Paulista de Ensino Renovado Objetivo - Assupero</a> foi a parte que mais apareceu, totalizando 2 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/29118509/ministerio-publico-do-trabalho' title='Ministerio Publico do Trabalho'>Ministerio Publico do Trabalho</a> com 1 processo. Seus clientes com mais processos aqui são: <a class='link -color' href='https://www.escavador.com/sobre/14512209/jose-soares-dos-santos' title='Jose Soares dos Santos'>Jose Soares dos Santos</a> com 1 processo , seguido por <a class='link -color' href='https://www.escavador.com/sobre/281844220/dimas-antonio-marinho' title='Dimas Antonio Marinho'>Dimas Antonio Marinho</a> com 1 processo.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 7,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "jane-tiburcio-de-lima",
+            "url_id": 223310863,
+            "link": "https://www.escavador.com/sobre/223310863/jane-tiburcio-de-lima",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/33836271",
+            "oab_numero": "13817/AL",
+            "tem_curriculo": 0,
+            "updated_at": "2021-04-07 02:31:17",
+            "tem_patente": 0
+        }
+    ],
+    "filtros": [
+        {
+            "titulo": "Tipos",
+            "valor": "pt",
+            "opcoes": [
+                {
+                    "valor": "curriculo",
+                    "quantidade_correspondencias": 6
+                },
+                {
+                    "valor": "partes",
+                    "quantidade_correspondencias": 43
+                }
+            ]
+        }
+    ]
+}
+
+{
+    "paginator": {
+        "total": 28,
+        "total_pages": 2,
+        "current_page": 1,
+        "per_page": 20
+    },
+    "links": {
+        "prev": null,
+        "next": "https://api.escavador.com/api/v1/busca?q=Mariza%20Ferro&qo=p&page=2"
+    },
+    "items": [
+        {
+            "id": 211864,
+            "nome": "Mariza Ferro",
+            "resumo": "Doutora em Modelagem Computacional pelo Laboratório Nacional de Computação Cientifica (LNCC) atuando na área de Computação Científica Distribuída de Alto Desempenho, Aprendizado de Máquina e Análise Operacional. Possui graduação em Ciência da Computação pela Universidade Estadual do Oeste do Paraná (2002) e mestrado em Ciências da Computação e Matemática Computacional pela Universidade de São Paulo (2004). Obteve experiência na área de Ciência da Computação, com ênfase em Inteligência Artificial, atuando principalmente nos seguintes temas: aprendizado de máquina, programação lógica indutiva e mineração de dados. Foi bolsista de Desenvolvimento Tecnológico Industrial do CNPq atuando nos temas de: grades computacionais, computação autonômica, aprendizado de máquina e programação lógica indutiva. Fez seu pós-doutoramento pelo projeto High Performance Computing for Energy desenvolvendo pesquisas em análise de desempenho e consumo de energia de aplicações científicas e pelo projeto Medicina Assistida por Computação Científica - MACC, atuando na área de Computação Científica Distribuída de Alto Desempenho no LNCC. Atualmente é pesquisadora de pós doutorado e Especialista em Arquitetura de Software no LNCC.<br />",
+            "atuacao_formacao": [
+                {
+                    "ano_fim": 2015,
+                    "ano_inicio": 2011,
+                    "tipo": "formacao",
+                    "descricao": "Doutorado em Modelagem Computacional",
+                    "instituicao": "Laboratório Nacional de Computação Científica"
+                },
+                {
+                    "ano_fim": 0,
+                    "ano_inicio": 2004,
+                    "tipo": "formacao",
+                    "descricao": "Doutorado interrompido em 2008 em Ciências da Computação e Matemática Computacional",
+                    "instituicao": "Universidade de São Paulo"
+                },
+                {
+                    "ano_fim": 2004,
+                    "ano_inicio": 2002,
+                    "tipo": "formacao",
+                    "descricao": "Mestrado em Ciências da Computação e Matemática Computacional",
+                    "instituicao": "Universidade de São Paulo"
+                },
+                {
+                    "ano_fim": 2002,
+                    "ano_inicio": 1995,
+                    "tipo": "formacao",
+                    "descricao": "Graduação em Ciência da Computação",
+                    "instituicao": "Universidade Estadual do Oeste do Paraná"
+                },
+                {
+                    "ano_inicio": 2018,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Celetista, Enquadramento Funcional: Pesquisador Pos-doutorado, Carga horária: 40",
+                    "instituicao": "Laboratório Nacional de Computação Científica"
+                },
+                {
+                    "ano_fim": 2009,
+                    "ano_inicio": 2009,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Bolsista, Enquadramento Funcional: Bolsista, Carga horária: 40",
+                    "instituicao": "Laboratório Nacional de Computação Científica"
+                },
+                {
+                    "ano_fim": 2007,
+                    "ano_inicio": 2007,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Estágio, Enquadramento Funcional: Estagiaria PAE, Carga horária: 6",
+                    "instituicao": "Universidade de São Paulo"
+                },
+                {
+                    "ano_fim": 2005,
+                    "ano_inicio": 2005,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Estágio, Enquadramento Funcional: Estagiária PAE, Carga horária: 6",
+                    "instituicao": "Universidade de São Paulo"
+                },
+                {
+                    "ano_fim": 2003,
+                    "ano_inicio": 2003,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Estágio, Enquadramento Funcional: Estagiária PAE, Carga horária: 6",
+                    "instituicao": "Universidade de São Paulo"
+                },
+                {
+                    "ano_fim": 2003,
+                    "ano_inicio": 2003,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Estágio, Enquadramento Funcional: Estagiária PAE, Carga horária: 6",
+                    "instituicao": "Universidade de São Paulo"
+                },
+                {
+                    "ano_fim": 2002,
+                    "ano_inicio": 2002,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Estágio, Enquadramento Funcional: , Carga horária: 6",
+                    "instituicao": "Universidade Estadual do Oeste do Paraná"
+                },
+                {
+                    "ano_fim": 2001,
+                    "ano_inicio": 2001,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Estágio, Enquadramento Funcional: Pesquisadora, Carga horária: 6",
+                    "instituicao": "Universidade Estadual do Oeste do Paraná"
+                },
+                {
+                    "ano_fim": 2000,
+                    "ano_inicio": 2000,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Estágio, Enquadramento Funcional: , Carga horária: 8",
+                    "instituicao": "Universidade Estadual do Oeste do Paraná"
+                },
+                {
+                    "ano_fim": 1999,
+                    "ano_inicio": 1999,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Monitor, Enquadramento Funcional: Outro, Carga horária: 6",
+                    "instituicao": "Universidade Estadual do Oeste do Paraná"
+                },
+                {
+                    "ano_fim": 2007,
+                    "ano_inicio": 2006,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Professora, Enquadramento Funcional: Professor Mestre, Carga horária: 0",
+                    "instituicao": "Faculdade Politécnica de Matão"
+                },
+                {
+                    "ano_fim": 2007,
+                    "ano_inicio": 2007,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Professora, Enquadramento Funcional: Professor Mestre, Carga horária: 4",
+                    "instituicao": "Associação de Escolas Reunidas Ltda"
+                },
+                {
+                    "ano_fim": 2006,
+                    "ano_inicio": 2005,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Professora, Enquadramento Funcional: Professora, Carga horária: 0",
+                    "instituicao": "Faculdade Santa Giulia"
+                }
+            ],
+            "nome_em_citacoes": "FERRO, Mariza;Ferro, Mariza;Mariza Ferro;FERRO, M.",
+            "quantidade_processos": 0,
+            "tipos_juridico": null,
+            "tem_processo": 0,
+            "slug": "mariza-ferro",
+            "url_id": 565040,
+            "link": "https://www.escavador.com/sobre/565040/mariza-ferro",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/211864",
+            "oab_numero": null,
+            "tem_curriculo": 1,
+            "updated_at": "2020-02-05 04:20:21",
+            "tem_patente": 0
+        },
+        {
+            "id": 57767053,
+            "nome": "Mariza Lima Ferro",
+            "resumo": "De acordo com os dados indexados: Mariza Lima Ferro possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de Minas Gerais.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/28491945/age-advocacia-geral-do-estado' title='Age Advocacia Geral do Estado'>Age Advocacia Geral do Estado</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/25344197/cemig-distribuicao-s-a' title='Cemig Distribuição S/A'>Cemig Distribuição S/A</a> com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 1,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "mariza-lima-ferro",
+            "url_id": 484130922,
+            "link": "https://www.escavador.com/sobre/484130922/mariza-lima-ferro",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/57767053",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-03-31 11:50:33",
+            "tem_patente": 0
+        },
+        {
+            "id": 32578064,
+            "nome": "Mariza Gonzaga Ferro",
+            "resumo": "De acordo com os dados indexados: Mariza Gonzaga Ferro possui 3 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/176380619/janderson-siqueira-borges' title='Janderson Siqueira Borges'>Janderson Siqueira Borges</a> foi a parte que mais apareceu, com 2 ou mais processos.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 3,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "mariza-gonzaga-ferro",
+            "url_id": 210103330,
+            "link": "https://www.escavador.com/sobre/210103330/mariza-gonzaga-ferro",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/32578064",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-03-15 23:05:37",
+            "tem_patente": 0
+        },
+        {
+            "id": 70879748,
+            "nome": "Mariza Alam Ferro",
+            "resumo": "De acordo com os dados indexados: Mariza Alam Ferro possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado do Rio Grande do Sul. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 1,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "mariza-alam-ferro",
+            "url_id": 647929614,
+            "link": "https://www.escavador.com/sobre/647929614/mariza-alam-ferro",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/70879748",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-09-02 20:10:28",
+            "tem_patente": 0
+        },
+        {
+            "id": 44986095,
+            "nome": "Mariza Direne Alam Ferro",
+            "resumo": "De acordo com os dados indexados: Mariza Direne Alam Ferro possui 2 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado do Rio Grande do Sul. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 2,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "mariza-direne-alam-ferro",
+            "url_id": 348437535,
+            "link": "https://www.escavador.com/sobre/348437535/mariza-direne-alam-ferro",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/44986095",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-03-19 05:29:07",
+            "tem_patente": 0
+        },
+        {
+            "id": 24918074,
+            "nome": "Mariza Teresinha Pioto Ferro",
+            "resumo": "De acordo com os dados indexados: Mariza Teresinha Pioto Ferro possui 3 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/25961820/telefonica-brasil-s-a' title='Telefônica Brasil S/A'>Telefônica Brasil S/A</a> foi a parte que mais apareceu, com 1 processo.Todos os processos indexados são do Advogado(a) <a class='link -color' href='https://www.escavador.com/sobre/10009152/emerson-francisco' title='Emerson Francisco'>Emerson Francisco</a>.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 3,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "mariza-teresinha-pioto-ferro",
+            "url_id": 127880393,
+            "link": "https://www.escavador.com/sobre/127880393/mariza-teresinha-pioto-ferro",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/24918074",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-02-17 06:30:59",
+            "tem_patente": 0
+        },
+        {
+            "id": 29489762,
+            "nome": "Mariza de Araujo Ferro",
+            "resumo": "De acordo com os dados indexados: Mariza de Araujo Ferro possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de São Paulo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 1,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "mariza-de-araujo-ferro",
+            "url_id": 168538350,
+            "link": "https://www.escavador.com/sobre/168538350/mariza-de-araujo-ferro",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/29489762",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-03-15 03:22:13",
+            "tem_patente": 0
+        },
+        {
+            "id": 2195568,
+            "nome": "Mariza da Silva Ferro",
+            "resumo": "",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 0,
+            "tipos_juridico": null,
+            "tem_processo": 0,
+            "slug": "mariza-da-silva-ferro",
+            "url_id": 2510125,
+            "link": "https://www.escavador.com/sobre/2510125/mariza-da-silva-ferro",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/2195568",
+            "oab_numero": null,
+            "tem_curriculo": 1,
+            "updated_at": "2020-02-05 10:50:46",
+            "tem_patente": 0
+        },
+        {
+            "id": 4449675,
+            "nome": "Mariza de Souza Ferro",
+            "resumo": "Tem experiência na área de Educação Física, com ênfase em EDUCAÇÃO FISICA ESCOLAR, em FARMÁCIA.<br />",
+            "atuacao_formacao": [
+                {
+                    "ano_inicio": 2011,
+                    "tipo": "formacao",
+                    "descricao": "Graduação em andamento em Educação Física",
+                    "instituicao": "Universidade Federal de Alagoas"
+                },
+                {
+                    "ano_inicio": 2005,
+                    "tipo": "formacao",
+                    "descricao": "Ensino Médio (2º grau)",
+                    "instituicao": "Escola Estadual João Ribeiro Sobrinho",
+                    "ano_fim": 2007
+                },
+                {
+                    "ano_inicio": 2013,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Bolsista, Enquadramento Funcional: Produção de materiais",
+                    "instituicao": "PROGRAMA DE APOIO DIDÁTICO AO EDUCADOR DO AGRESTE E SERTÃO ALAGOANO"
+                }
+            ],
+            "nome_em_citacoes": "FERRO, M. S.",
+            "quantidade_processos": 0,
+            "tipos_juridico": null,
+            "tem_processo": 0,
+            "slug": "mariza-de-souza-ferro",
+            "url_id": 4717262,
+            "link": "https://www.escavador.com/sobre/4717262/mariza-de-souza-ferro",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/4449675",
+            "oab_numero": null,
+            "tem_curriculo": 1,
+            "updated_at": "2020-02-05 19:28:55",
+            "tem_patente": 0
+        },
+        {
+            "id": 68157323,
+            "nome": "CLEMILDA APARECIDA MATOS E MARIZA DA SILVA FERRO VIEIRA",
+            "resumo": "",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 0,
+            "tipos_juridico": null,
+            "tem_processo": 0,
+            "slug": "clemilda-aparecida-matos-e-mariza-da-silva-ferro-vieira",
+            "url_id": 608739445,
+            "link": "https://www.escavador.com/sobre/608739445/clemilda-aparecida-matos-e-mariza-da-silva-ferro-vieira",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/68157323",
+            "oab_numero": null,
+            "tem_curriculo": 1,
+            "updated_at": "2020-01-31 14:42:46",
+            "tem_patente": 0
+        },
+        {
+            "id": 24734243,
+            "nome": "Wagner Sales Ferro",
+            "resumo": "De acordo com os dados indexados: Wagner Sales Ferro possui 19 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/29119570/azul-companhia-de-seguros-gerais' title='Azul Companhia de Seguros Gerais'>Azul Companhia de Seguros Gerais</a> foi a parte que mais apareceu, totalizando 2 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/636469784/raimundo-valdez-ferreira' title='Raimundo Valdez Ferreira'>Raimundo Valdez Ferreira</a> com 1 processo. Todos os processos indexados são do Advogado(a) <a class='link -color' href='https://www.escavador.com/sobre/10188607/mariza-de-lazare-galvao' title='Mariza de Lazare Galvao'>Mariza de Lazare Galvao</a>.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 19,
+            "tipos_juridico": [
+                {
+                    "quantidade_processos": 6,
+                    "label": "RECLAMADO"
+                },
+                {
+                    "quantidade_processos": 3,
+                    "label": "RÉU"
+                },
+                {
+                    "quantidade_processos": 2,
+                    "label": "REQUERIDO"
+                },
+                {
+                    "quantidade_processos": 1,
+                    "label": "RECORRIDO"
+                }
+            ],
+            "tem_processo": 1,
+            "slug": "wagner-sales-ferro",
+            "url_id": 127141537,
+            "link": "https://www.escavador.com/sobre/127141537/wagner-sales-ferro",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/24734243",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-03-12 08:54:29",
+            "tem_patente": 0
+        },
+        {
+            "id": 20286784,
+            "nome": "Ana Mariza dos Santos",
+            "resumo": "De acordo com os dados indexados: Ana Mariza dos Santos possui 3 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de Minas Gerais.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24762913/construcoes-e-comercio-camargo-correa-s-a' title='Construcoes e Comercio Camargo Correa S/A'>Construcoes e Comercio Camargo Correa S/A</a> foi a parte que mais apareceu, totalizando 2 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/27077828/anglo-american-minerio-de-ferro-brasil-s-a' title='Anglo American Minerio de Ferro Brasil S/A'>Anglo American Minerio de Ferro Brasil S/A</a> com 2 ou mais processos. Seu advogado(a) com mais processos aqui é <a class='link -color' href='https://www.escavador.com/sobre/9953858/philipe-mateus-santos' title='Philipe Mateus Santos'>Philipe Mateus Santos</a>, com 1 processo, seguido por <a class='link -color' href='https://www.escavador.com/sobre/9958549/gildete-do-carmo-ferreira' title='Gildete do Carmo Ferreira'>Gildete do Carmo Ferreira</a>, com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 3,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "ana-mariza-dos-santos",
+            "url_id": 20509146,
+            "link": "https://www.escavador.com/sobre/20509146/ana-mariza-dos-santos",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/20286784",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-03-10 22:45:53",
+            "tem_patente": 0
+        },
+        {
+            "id": 37136348,
+            "nome": "Mariza Claudia de Jesus",
+            "resumo": "De acordo com os dados indexados: Mariza Claudia de Jesus possui 2 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de Minas Gerais.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/29124753/jr-higienizacao-limitada' title='Jr Higienizacao Limitada'>Jr Higienizacao Limitada</a> foi a parte que mais apareceu, totalizando 2 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/27077828/anglo-american-minerio-de-ferro-brasil-s-a' title='Anglo American Minerio de Ferro Brasil S/A'>Anglo American Minerio de Ferro Brasil S/A</a> com 1 processo. Todos os processos indexados são do Advogado(a) <a class='link -color' href='https://www.escavador.com/sobre/9954180/marcos-felipe-de-almeida-fernandes' title='Marcos Felipe de Almeida Fernandes'>Marcos Felipe de Almeida Fernandes</a>.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 2,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "mariza-claudia-de-jesus",
+            "url_id": 274005629,
+            "link": "https://www.escavador.com/sobre/274005629/mariza-claudia-de-jesus",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/37136348",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-03-17 04:01:09",
+            "tem_patente": 0
+        },
+        {
+            "id": 17097036,
+            "nome": "Mariza Barroso Correa",
+            "resumo": "De acordo com os dados indexados: Mariza Barroso Correa possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de Distrito Federal e Tocantins.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/27209409/ferro-e-aco-badaruco-ltda' title='Ferro e Aco Badaruco Ltda'>Ferro e Aco Badaruco Ltda</a> foi a parte que mais apareceu, com 1 processo.Seu advogado(a) com mais processos aqui é <a class='link -color' href='https://www.escavador.com/sobre/9943380/rubia-cristina-porto' title='Rubia Cristina Porto'>Rubia Cristina Porto</a>, com 1 processo, seguido por <a class='link -color' href='https://www.escavador.com/sobre/9961073/gabriela-mendes-silva' title='Gabriela Mendes Silva'>Gabriela Mendes Silva</a>, com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 1,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "mariza-barroso-correa",
+            "url_id": 17319398,
+            "link": "https://www.escavador.com/sobre/17319398/mariza-barroso-correa",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/17097036",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-03-09 17:56:11",
+            "tem_patente": 0
+        },
+        {
+            "id": 70648466,
+            "nome": "Mariza Reis de Matos",
+            "resumo": "De acordo com os dados indexados: Mariza Reis de Matos possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de Minas Gerais.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/27077828/anglo-american-minerio-de-ferro-brasil-s-a' title='Anglo American Minerio de Ferro Brasil S/A'>Anglo American Minerio de Ferro Brasil S/A</a> foi a parte que mais apareceu, com 1 processo.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 1,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "mariza-reis-de-matos",
+            "url_id": 644837941,
+            "link": "https://www.escavador.com/sobre/644837941/mariza-reis-de-matos",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/70648466",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-03-21 20:36:38",
+            "tem_patente": 0
+        },
+        {
+            "id": 22457521,
+            "nome": "Ana Mariza Soares",
+            "resumo": "De acordo com os dados indexados: Ana Mariza Soares possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de Minas Gerais.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24762913/construcoes-e-comercio-camargo-correa-s-a' title='Construcoes e Comercio Camargo Correa S/A'>Construcoes e Comercio Camargo Correa S/A</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/27077828/anglo-american-minerio-de-ferro-brasil-s-a' title='Anglo American Minerio de Ferro Brasil S/A'>Anglo American Minerio de Ferro Brasil S/A</a> com 1 processo. Seu advogado(a) com mais processos aqui é <a class='link -color' href='https://www.escavador.com/sobre/9958549/gildete-do-carmo-ferreira' title='Gildete do Carmo Ferreira'>Gildete do Carmo Ferreira</a>, com 1 processo, seguido por <a class='link -color' href='https://www.escavador.com/sobre/9953858/philipe-mateus-santos' title='Philipe Mateus Santos'>Philipe Mateus Santos</a>, com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 1,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "ana-mariza-soares",
+            "url_id": 22679883,
+            "link": "https://www.escavador.com/sobre/22679883/ana-mariza-soares",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/22457521",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-03-11 17:02:52",
+            "tem_patente": 0
+        },
+        {
+            "id": 31723867,
+            "nome": "Mariza Oliveira Cauneto",
+            "resumo": "De acordo com os dados indexados: Mariza Oliveira Cauneto possui 2 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/29124355/fazenda-do-estado-de-sao-paulo' title='Fazenda do Estado de São Paulo'>Fazenda do Estado de São Paulo</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/10084029/patricia-lourenco-dias-ferro-cabello-dra' title='Patrícia Lourenço Dias Ferro Cabello'>Patrícia Lourenço Dias Ferro Cabello</a> com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 2,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "mariza-oliveira-cauneto",
+            "url_id": 201097818,
+            "link": "https://www.escavador.com/sobre/201097818/mariza-oliveira-cauneto",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/31723867",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-03-15 17:36:07",
+            "tem_patente": 0
+        },
+        {
+            "id": 69590274,
+            "nome": "Liria Ferro Alves",
+            "resumo": "De acordo com os dados indexados: Liria Ferro Alves possui 2 processos indexados, até então, pelo Escavador. Com todos os seus processos no Brasil.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/24575184/instituto-nacional-do-seguro-social' title='Instituto Nacional do Seguro Social'>Instituto Nacional do Seguro Social</a> foi a parte que mais apareceu, totalizando 2 ou mais processos, seguida por <a class='link -color' href='https://www.escavador.com/sobre/629010381/mariza-granato' title='Mariza Granato'>Mariza Granato</a> com 2 ou mais processos. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 2,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "liria-ferro-alves",
+            "url_id": 629010382,
+            "link": "https://www.escavador.com/sobre/629010382/liria-ferro-alves",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/69590274",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-02-01 16:05:21",
+            "tem_patente": 0
+        },
+        {
+            "id": 15255506,
+            "nome": "Pedro Luiz Ferro Merlini",
+            "resumo": "De acordo com os dados indexados: Pedro Luiz Ferro Merlini possui 3 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado de São Paulo.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/15477867/celia-mariza-mussio' title='Celia Mariza Mussio'>Celia Mariza Mussio</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/27151955/associacao-de-proprietarios-do-parque-residencial-primavera-de-jau' title='Associacao de Proprietarios do Parque Residencial Primavera de Jau'>Associacao de Proprietarios do Parque Residencial Primavera de Jau</a> com 1 processo. Todos os processos indexados são do Advogado(a) <a class='link -color' href='https://www.escavador.com/sobre/9916879/celso-richard-urbano' title='Celso Richard Urbano'>Celso Richard Urbano</a>.",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 3,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "pedro-luiz-ferro-merlini",
+            "url_id": 15477868,
+            "link": "https://www.escavador.com/sobre/15477868/pedro-luiz-ferro-merlini",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/15255506",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-05-09 00:51:14",
+            "tem_patente": 0
+        },
+        {
+            "id": 11758398,
+            "nome": "Mariza Duarte de Castro",
+            "resumo": "De acordo com os dados indexados: Mariza Duarte de Castro é Advogado(a) e possui 1 processo indexado, até então, pelo Escavador. Sendo esse processo no Estado de Minas Gerais.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/22083714/henrique-monteiro-ferro' title='Henrique Monteiro Ferro'>Henrique Monteiro Ferro</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/28610402/eletro-center-materiais-eletricos-e-hidraulicos-ltda' title='Eletro Center Materiais Elétricos e Hidráulicos Ltda'>Eletro Center Materiais Elétricos e Hidráulicos Ltda</a> com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 1,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "mariza-duarte-de-castro",
+            "url_id": 11980934,
+            "link": "https://www.escavador.com/sobre/11980934/mariza-duarte-de-castro",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/11758398",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2020-02-09 20:47:24",
+            "tem_patente": 0
+        }
+    ],
+    "filtros": [
+        {
+            "titulo": "Tipos",
+            "valor": "pt",
+            "opcoes": [
+                {
+                    "valor": "curriculo",
+                    "quantidade_correspondencias": 5
+                },
+                {
+                    "valor": "partes",
+                    "quantidade_correspondencias": 23
+                }
+            ]
+        }
+    ]
+}
+

@@ -2,7 +2,7 @@ import requests
 import json
 import logging
 
-from Escavador import Auth
+from Escavador import Auth, Query
 
 
 def login():
@@ -12,32 +12,6 @@ def login():
         l.append(line)
     f.close()
     return l
-
-
-def query(bearer_token, query_parameters):
-    """ Query Parameters
-        Parâmetro |	Status      | Descrição
-        q	      | obrigatório	| O termo a ser pesquisado. Você pode pesquisar entre aspas duplas para match perfeito.
-        qo	      | obrigatório	| Tipo da entidade a ser pesquisada. os valores podem ser:
-            t : Para pesquisar todos os tipos de entidades.
-            p : Para pesquisar apenas as pessoas.
-            i : Para pesquisar apenas as instituições.
-            pa: Para pesquisar apenas as patentes.
-            d : Para pesquisar apenas os Diários Oficiais.
-            en: Para pesquisar as pessoas e instituições que são envolvidas em processos.
-        limit     | opcional	| Número de itens que serão retornados por página. Default: 20
-        page	  | opcional	| Número da página, respeitando o limite informado.
-    """
-    access_token = bearer_token["access_token"]
-    url = 'https://api.escavador.com/api/v1/busca'
-    headers = {
-        'Authorization': f'Bearer {access_token}',
-        'X-Requested-With': 'XMLHttpRequest'
-    }
-
-    response = requests.get(url, headers = headers, params = query_parameters)
-    logging.debug(json.loads(response.content))
-    print(json.loads(response.content))    
 
 
 if __name__ == "__main__" :
@@ -51,29 +25,40 @@ if __name__ == "__main__" :
     
     logging.info("Auth Beging")
     
-    escavador = Auth(EMAIL, PWD)    
+    oauth = Auth(EMAIL, PWD)    
     try: 
-        bearer = escavador.bearer()
+        bearer = oauth.bearer()
     except:
         logging.warning("Error: email ou senha incorreto")
         raise("Error: email ou senha incorreto")
     finally:
+        del oauth    
         del EMAIL
-        del PWD    
+        del PWD
     
-    print(bearer)
-    
+    logging.debug(bearer)
     logging.info("Auth End")
-    # logging.info("Bearer Beging")
-    
-    # params = {
-    #     'q': 'Otto Teixeira Fraga Netto',  
-    #     'qo': 't',  
-    #     'limit': '10',  # opcional
-    #     'page': '1'  # opcional
-    # }
+    logging.info("Bearer Beging")
 
-    # query(bearer, params)
+    tatu = Query(bearer)
     
-    # logging.info("Bearer End")
+    params = {
+        'q': "Mariza Ferro",  # O termo a ser pesquisado. 
+        'qo': 'p',  # Tipo da entidade a ser pesquisada
+        # 'limit': '10',  # Número de itens que serão retornados por página, opcional 
+        # 'page': '1'  # Número da página, respeitando o limite informado, opcional
+    }
+    
+    result = tatu.search_all_data(params)
+    del tatu
+    del params
+    
+    logging.info(result)
+    
+    with open('database/sampling.json', 'a', encoding='utf-8') as f:
+        json.dump(result, f, ensure_ascii=False, indent=4)
+        f.write('\n')
+        f.write('\n')      
+    
+    logging.info("Bearer End")
     
