@@ -24,11 +24,12 @@ Por sua vez, o client deve possuir mecanismos próprios para identificar e valid
 |---|---|---|
 | q | obrigatório | O termo a ser pesquisado. Você pode pesquisar entre aspas duplas para match perfeito.|
 | qo | obrigatório | Tipo da entidade a ser pesquisada. os valores podem ser: <br> **⏺ t:** Para pesquisar todos os tipos de entidades. <br> **⏺ p:** Para pesquisar apenas as pessoas. <br> **⏺ i:** Para pesquisar apenas as instituições. <br> **⏺ pa:** Para pesquisar apenas as patentes. <br> **⏺ d:** Para pesquisar apenas os Diários Oficiais. <br> **⏺ en:** Para pesquisar as pessoas e instituições que são envolvidas em processos. |
-| limit | opcional | Número de itens que serão retornados por página. Default: 20                                                                                                                                                                                                                                                                                               |
+| limit | opcional | Número de itens que serão retornados por página. Default: 20 |
 | page | opcional | Número da página, respeitando o limite informado. |
-
 
 ---
 
 ## Referência
-* https://www.brunobrito.net.br/jwt-cookies-oauth-bearer/
+* [Documentação da API  do Escavador](https://api.escavador.com/docs/)
+* [Segurança - JWT x Cookies x OAuth 2.0 x Bearer por Bruno Brito](https://www.brunobrito.net.br/jwt-cookies-oauth-bearer/)
+* [Uso do Flask para consumir api do escavdor por Jonathan Gama](https://github.com/JonathanGamaS/consumo_api_escavador)

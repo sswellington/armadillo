@@ -27,7 +27,7 @@ if __name__ == "__main__" :
     
     escavador = Auth(EMAIL, PWD)    
     try: 
-        access_token = escavador.bearer()
+        bearer = escavador.bearer()
     except:
         logging.warning("Error: email ou senha incorreto")
         raise("Error: email ou senha incorreto")
@@ -35,6 +35,25 @@ if __name__ == "__main__" :
         del EMAIL
         del PWD    
     
-    print(access_token)
     logging.info("Auth End")
+    logging.info("Bearer Beging")
     
+    access_token = bearer["access_token"]
+    url = 'https://api.escavador.com/api/v1/busca'
+
+    params = {
+        'q': 'João Silva',  
+        'qo': 't',  
+        'page': '1'
+    }
+
+    headers = {
+        'Authorization': f'Bearer {access_token}',
+        'X-Requested-With': 'XMLHttpRequest'
+    }
+
+    response = requests.get(url, headers=headers, params=params)
+    print(json.loads(response.content))
+    
+
+    logging.info("Bearer End")
