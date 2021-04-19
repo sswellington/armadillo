@@ -1,10 +1,23 @@
 # Armadillo
 
-Oferece uma forma de acessar à API do Escador por intermédio de CLI feita em Python 3.9.0 e suas bibliotecas que auxiliam na manipulação do protocolo HTTP, a lista dessa está disponível em [requisitos](https://github.com/sswellington/armadillo/blob/main/requirements.txt)
+Oferece uma forma de acessar à API do Escador por intermédio de CLI feita em Python 3.9.0 e suas bibliotecas que auxiliam na manipulação do protocolo HTTP, a lista desses estão disponível em [requisitos](https://github.com/sswellington/armadillo/blob/main/requirements.txt).
 
 Observação, o Armillo não solicita nem um meio de pagamentos.
 Entretanto, pode ocorrer cobrança feito por terceiros, como a API do Escavador, assim consulte as informações no site da mesma e aproveite para obter a sua credencial.
 Além disso, Armillo não realiza a coleta, manipulação dos dados nem proprietário dos mesmos, ou seja, apenas oferece uma interface acessar os dados da Escavador por intermédio da API do mesmo.
+
+### Como usar
+1. Abra a pasta `src`
+2. Abra o arquivo `main.py`
+3. Faça autentificação:
+    * Linha 26: Seu e-mail
+    * Linha 27: Sua senha
+4. Realizar a pesquisa:
+    * Linha 41: 'q': 'Informar o que deseja pesquisar entre as aspas'
+    * Linha 42: 'qo': 'Informar o tipo da entidade a ser pesquisada'
+5. O resultado será exportado em um arquivo para a pasta `database` com o nome `sampling.json`
+
+---
 
 ## [API do Escavador](https://api.escavador.com/docs/#api-do-escavador)
 
@@ -39,8 +52,6 @@ Por sua vez, o client deve possuir mecanismos próprios para identificar e valid
 
 Fique à vontade para contribuir com o projeto, toda contribuição é bem vinda.
 Sendo possível contribuir de 3 formas: issues, pull requests e revisar pull requests.
-
----
 
 ## Referência
 * [Documentação do Python](https://docs.python.org/3/)
