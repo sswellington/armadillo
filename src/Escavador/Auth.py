@@ -1,6 +1,6 @@
-import requests
 import json
 import logging
+import requests
 
 from Escavador.Library import Frame
 

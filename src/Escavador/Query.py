@@ -1,6 +1,5 @@
-import requests
-import json
 import logging
+import requests
 
 from Escavador.Library import Frame
 
@@ -51,5 +50,5 @@ class Query(Frame):
             page	  | opcional	| Número da página, respeitando o limite informado.
         """
         response = requests.get(self.url, headers = self.headers, params = params)
-        logging.debug(json.loads(response.content))
-        return (json.loads(response.content))    
+        logging.debug(response.content)
+        return response    

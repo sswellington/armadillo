@@ -1,6 +1,7 @@
-import requests
 import json
 import logging
+# import pandas as pd
+import requests
 
 from Escavador import Auth, Query
 
@@ -58,8 +59,6 @@ if __name__ == "__main__" :
         del EMAIL
         del PWD
     
-    print(bearer)
-    
     logging.debug(bearer)
     logging.info("Auth End")
     logging.info("Bearer Beging")
@@ -69,16 +68,30 @@ if __name__ == "__main__" :
     except: 
         logging.warning("Error: bearer token incorrect")
         raise("Error: token bearer incorreto")
+    
+    logging.info("Bearer End")
+    logging.info("Query Begin")
         
-    result = tatu.search_all_data(PESQUISA)
-    logging.info(result)
+    response = tatu.search_all_data(PESQUISA)
+    logging.info(response.content)
     del tatu
     del PESQUISA
     
     with open('database/sampling.json', 'a', encoding='utf-8') as f:
-        json.dump(result, f, ensure_ascii=False, indent=4)
+        json.dump(json.loads(response.content), f, ensure_ascii=False, indent=4)
         f.write('\n')
         f.write('\n')      
+    del response
     
-    logging.info("Bearer End")
+    
+    """ Error: json file - arrays must all be same length 
+        https://pandas.pydata.org/docs/reference/api/pandas.read_json.html
+        https://pandas.pydata.org/docs/reference/api/pandas.json_normalize.html
+    """
+    # # data = response.text
+    # # df = pd.json_normalize(data['links'])
+    # df = pd.read_json('database/sampling.csv')
+    # df.to_csv('database/sampling.csv')
+    
+    logging.info("Query End")
     
