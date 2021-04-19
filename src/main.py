@@ -37,11 +37,12 @@ if __name__ == "__main__" :
             pa: Para pesquisar apenas as patentes.
             d : Para pesquisar apenas os Diários Oficiais. 
     '''
+    PEOPLE = "Dimas Soares Lima"
     PESQUISA = {
-        'q': "Mariza Ferro",   
+        'q': PEOPLE,   
         'qo': 'p',
-        # 'limit': '10',  # Número de itens que serão retornados por página, opcional 
-        # 'page': '1'  # Número da página, respeitando o limite informado, opcional
+        'limit': '1',  # Número de itens que serão retornados por página, opcional 
+        'page': '1'  # Número da página, respeitando o limite informado, opcional
     }
     ''' PESQUISA : FIM '''
     
@@ -77,7 +78,7 @@ if __name__ == "__main__" :
     del tatu
     del PESQUISA
     
-    with open('database/sampling.json', 'a', encoding='utf-8') as f:
+    with open('database/'+PEOPLE+'.json', 'a', encoding='utf-8') as f:
         json.dump(json.loads(response.content), f, ensure_ascii=False, indent=4)
         f.write('\n')
         f.write('\n')      

@@ -1,0 +1,76 @@
+{
+    "paginator": {
+        "total": 49,
+        "total_pages": 49,
+        "current_page": 1,
+        "per_page": 1
+    },
+    "links": {
+        "prev": null,
+        "next": "https://api.escavador.com/api/v1/busca?q=Dimas%20Soares%20Lima&qo=p&limit=1&page=2"
+    },
+    "items": [
+        {
+            "id": 37651113,
+            "nome": "Dimas Soares Lima",
+            "resumo": "Possui graduação em Estatística pela Universidade Federal do Rio de Janeiro (2017) e atualmente cursa Mestrado em Estatística pela Universidade Federal do Rio de Janeiro. Tem experiência em Probabilidade e Estatística, com ênfase em Probabilidade e Estatística aplicada. Tem interesse em Inferência Bayesiana, Estatística Computacional, Aprendizado de Máquina e Ciência de Dados em geral.<br />",
+            "atuacao_formacao": [
+                {
+                    "ano_inicio": 2018,
+                    "tipo": "formacao",
+                    "descricao": "Mestrado em andamento em Estatística",
+                    "instituicao": "Universidade Federal do Rio de Janeiro"
+                },
+                {
+                    "ano_inicio": 2013,
+                    "tipo": "formacao",
+                    "descricao": "Graduação em Estatística",
+                    "instituicao": "Universidade Federal do Rio de Janeiro",
+                    "ano_fim": 2018
+                },
+                {
+                    "ano_inicio": 2018,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Bolsista, Enquadramento Funcional: Monitor, Carga horária: 10",
+                    "instituicao": "Universidade Federal do Rio de Janeiro"
+                },
+                {
+                    "ano_inicio": 2016,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Bolsista, Enquadramento Funcional: Aluno Pesquisador, Carga horária: 20",
+                    "instituicao": "Universidade Federal do Rio de Janeiro",
+                    "ano_fim": 2018
+                }
+            ],
+            "nome_em_citacoes": "LIMA, D. S.",
+            "quantidade_processos": 0,
+            "tipos_juridico": null,
+            "tem_processo": 0,
+            "slug": "dimas-soares-lima",
+            "url_id": 277601033,
+            "link": "https://www.escavador.com/sobre/277601033/dimas-soares-lima",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/37651113",
+            "oab_numero": null,
+            "tem_curriculo": 1,
+            "updated_at": "2020-03-17 07:11:05",
+            "tem_patente": 0
+        }
+    ],
+    "filtros": [
+        {
+            "titulo": "Tipos",
+            "valor": "pt",
+            "opcoes": [
+                {
+                    "valor": "curriculo",
+                    "quantidade_correspondencias": 6
+                },
+                {
+                    "valor": "partes",
+                    "quantidade_correspondencias": 43
+                }
+            ]
+        }
+    ]
+}
+

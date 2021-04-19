@@ -1,8 +1,12 @@
 import json
 import pandas as pd
 
-with open('database/sampling.json') as f:
+PEOPLE = 'Dimas Soares Lima'
+PEOPLE = 'Mariza Ferro'
+PEOPLE = 'Otto Teixeira Fraga Netto'
+
+with open('database/'+PEOPLE+'.json') as f:
   data = json.load(f)
 
 df = pd.json_normalize(data["items"])
-df.to_csv('database/sampling.csv')
+df.to_csv('database/'+PEOPLE+'.csv')

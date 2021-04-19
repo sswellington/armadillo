@@ -1,0 +1,168 @@
+{
+    "paginator": {
+        "total": 28,
+        "total_pages": 28,
+        "current_page": 1,
+        "per_page": 1
+    },
+    "links": {
+        "prev": null,
+        "next": "https://api.escavador.com/api/v1/busca?q=Mariza%20Ferro&qo=p&limit=1&page=2"
+    },
+    "items": [
+        {
+            "id": 211864,
+            "nome": "Mariza Ferro",
+            "resumo": "Doutora em Modelagem Computacional pelo Laboratório Nacional de Computação Cientifica (LNCC) atuando na área de Computação Científica Distribuída de Alto Desempenho, Aprendizado de Máquina e Análise Operacional. Possui graduação em Ciência da Computação pela Universidade Estadual do Oeste do Paraná (2002) e mestrado em Ciências da Computação e Matemática Computacional pela Universidade de São Paulo (2004). Obteve experiência na área de Ciência da Computação, com ênfase em Inteligência Artificial, atuando principalmente nos seguintes temas: aprendizado de máquina, programação lógica indutiva e mineração de dados. Foi bolsista de Desenvolvimento Tecnológico Industrial do CNPq atuando nos temas de: grades computacionais, computação autonômica, aprendizado de máquina e programação lógica indutiva. Fez seu pós-doutoramento pelo projeto High Performance Computing for Energy desenvolvendo pesquisas em análise de desempenho e consumo de energia de aplicações científicas e pelo projeto Medicina Assistida por Computação Científica - MACC, atuando na área de Computação Científica Distribuída de Alto Desempenho no LNCC. Atualmente é pesquisadora de pós doutorado e Especialista em Arquitetura de Software no LNCC.<br />",
+            "atuacao_formacao": [
+                {
+                    "ano_fim": 2015,
+                    "ano_inicio": 2011,
+                    "tipo": "formacao",
+                    "descricao": "Doutorado em Modelagem Computacional",
+                    "instituicao": "Laboratório Nacional de Computação Científica"
+                },
+                {
+                    "ano_fim": 0,
+                    "ano_inicio": 2004,
+                    "tipo": "formacao",
+                    "descricao": "Doutorado interrompido em 2008 em Ciências da Computação e Matemática Computacional",
+                    "instituicao": "Universidade de São Paulo"
+                },
+                {
+                    "ano_fim": 2004,
+                    "ano_inicio": 2002,
+                    "tipo": "formacao",
+                    "descricao": "Mestrado em Ciências da Computação e Matemática Computacional",
+                    "instituicao": "Universidade de São Paulo"
+                },
+                {
+                    "ano_fim": 2002,
+                    "ano_inicio": 1995,
+                    "tipo": "formacao",
+                    "descricao": "Graduação em Ciência da Computação",
+                    "instituicao": "Universidade Estadual do Oeste do Paraná"
+                },
+                {
+                    "ano_inicio": 2018,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Celetista, Enquadramento Funcional: Pesquisador Pos-doutorado, Carga horária: 40",
+                    "instituicao": "Laboratório Nacional de Computação Científica"
+                },
+                {
+                    "ano_fim": 2009,
+                    "ano_inicio": 2009,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Bolsista, Enquadramento Funcional: Bolsista, Carga horária: 40",
+                    "instituicao": "Laboratório Nacional de Computação Científica"
+                },
+                {
+                    "ano_fim": 2007,
+                    "ano_inicio": 2007,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Estágio, Enquadramento Funcional: Estagiaria PAE, Carga horária: 6",
+                    "instituicao": "Universidade de São Paulo"
+                },
+                {
+                    "ano_fim": 2005,
+                    "ano_inicio": 2005,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Estágio, Enquadramento Funcional: Estagiária PAE, Carga horária: 6",
+                    "instituicao": "Universidade de São Paulo"
+                },
+                {
+                    "ano_fim": 2003,
+                    "ano_inicio": 2003,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Estágio, Enquadramento Funcional: Estagiária PAE, Carga horária: 6",
+                    "instituicao": "Universidade de São Paulo"
+                },
+                {
+                    "ano_fim": 2003,
+                    "ano_inicio": 2003,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Estágio, Enquadramento Funcional: Estagiária PAE, Carga horária: 6",
+                    "instituicao": "Universidade de São Paulo"
+                },
+                {
+                    "ano_fim": 2002,
+                    "ano_inicio": 2002,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Estágio, Enquadramento Funcional: , Carga horária: 6",
+                    "instituicao": "Universidade Estadual do Oeste do Paraná"
+                },
+                {
+                    "ano_fim": 2001,
+                    "ano_inicio": 2001,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Estágio, Enquadramento Funcional: Pesquisadora, Carga horária: 6",
+                    "instituicao": "Universidade Estadual do Oeste do Paraná"
+                },
+                {
+                    "ano_fim": 2000,
+                    "ano_inicio": 2000,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Estágio, Enquadramento Funcional: , Carga horária: 8",
+                    "instituicao": "Universidade Estadual do Oeste do Paraná"
+                },
+                {
+                    "ano_fim": 1999,
+                    "ano_inicio": 1999,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Monitor, Enquadramento Funcional: Outro, Carga horária: 6",
+                    "instituicao": "Universidade Estadual do Oeste do Paraná"
+                },
+                {
+                    "ano_fim": 2007,
+                    "ano_inicio": 2006,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Professora, Enquadramento Funcional: Professor Mestre, Carga horária: 0",
+                    "instituicao": "Faculdade Politécnica de Matão"
+                },
+                {
+                    "ano_fim": 2007,
+                    "ano_inicio": 2007,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Professora, Enquadramento Funcional: Professor Mestre, Carga horária: 4",
+                    "instituicao": "Associação de Escolas Reunidas Ltda"
+                },
+                {
+                    "ano_fim": 2006,
+                    "ano_inicio": 2005,
+                    "tipo": "atuacao_profissional",
+                    "descricao": "Vínculo: Professora, Enquadramento Funcional: Professora, Carga horária: 0",
+                    "instituicao": "Faculdade Santa Giulia"
+                }
+            ],
+            "nome_em_citacoes": "FERRO, Mariza;Ferro, Mariza;Mariza Ferro;FERRO, M.",
+            "quantidade_processos": 0,
+            "tipos_juridico": null,
+            "tem_processo": 0,
+            "slug": "mariza-ferro",
+            "url_id": 565040,
+            "link": "https://www.escavador.com/sobre/565040/mariza-ferro",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/211864",
+            "oab_numero": null,
+            "tem_curriculo": 1,
+            "updated_at": "2020-02-05 04:20:21",
+            "tem_patente": 0
+        }
+    ],
+    "filtros": [
+        {
+            "titulo": "Tipos",
+            "valor": "pt",
+            "opcoes": [
+                {
+                    "valor": "curriculo",
+                    "quantidade_correspondencias": 5
+                },
+                {
+                    "valor": "partes",
+                    "quantidade_correspondencias": 23
+                }
+            ]
+        }
+    ]
+}
+

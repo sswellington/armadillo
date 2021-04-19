@@ -1,0 +1,49 @@
+{
+    "paginator": {
+        "total": 134,
+        "total_pages": 134,
+        "current_page": 1,
+        "per_page": 1
+    },
+    "links": {
+        "prev": null,
+        "next": "https://api.escavador.com/api/v1/busca?q=Otto%20Teixeira%20Fraga%20Netto&qo=p&limit=1&page=2"
+    },
+    "items": [
+        {
+            "id": 55191775,
+            "nome": "Otto Teixeira Fraga Netto",
+            "resumo": "De acordo com os dados indexados: Otto Teixeira Fraga Netto possui 3 processos indexados, até então, pelo Escavador. Com todos os seus processos no Estado do Rio de Janeiro.  Desses processos, <a class='link -color' href='https://www.escavador.com/sobre/25221965/sbf-comercio-de-produtos-esportivos-ltda' title='Sbf Comercio de Produtos Esportivos Ltda'>Sbf Comercio de Produtos Esportivos Ltda</a> foi a parte que mais apareceu, totalizando 1 processo, seguida por <a class='link -color' href='https://www.escavador.com/sobre/26113893/banco-itaucard-s-a' title='Banco Itaucard S/A'>Banco Itaucard S/A</a> com 1 processo. ",
+            "atuacao_formacao": null,
+            "nome_em_citacoes": null,
+            "quantidade_processos": 3,
+            "tipos_juridico": null,
+            "tem_processo": 1,
+            "slug": "otto-teixeira-fraga-netto",
+            "url_id": 450909910,
+            "link": "https://www.escavador.com/sobre/450909910/otto-teixeira-fraga-netto",
+            "link_api": "https://api.escavador.com/api/v1/pessoas/55191775",
+            "oab_numero": "",
+            "tem_curriculo": 0,
+            "updated_at": "2021-01-24 01:40:26",
+            "tem_patente": 0
+        }
+    ],
+    "filtros": [
+        {
+            "titulo": "Tipos",
+            "valor": "pt",
+            "opcoes": [
+                {
+                    "valor": "curriculo",
+                    "quantidade_correspondencias": 2
+                },
+                {
+                    "valor": "partes",
+                    "quantidade_correspondencias": 132
+                }
+            ]
+        }
+    ]
+}
+
