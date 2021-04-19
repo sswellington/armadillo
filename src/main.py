@@ -83,15 +83,5 @@ if __name__ == "__main__" :
         f.write('\n')      
     del response
     
-    
-    """ Error: json file - arrays must all be same length 
-        https://pandas.pydata.org/docs/reference/api/pandas.read_json.html
-        https://pandas.pydata.org/docs/reference/api/pandas.json_normalize.html
-    """
-    # # data = response.text
-    # # df = pd.json_normalize(data['links'])
-    # df = pd.read_json('database/sampling.csv')
-    # df.to_csv('database/sampling.csv')
-    
     logging.info("Query End")
     
