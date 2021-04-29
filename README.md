@@ -1,21 +1,20 @@
 # Armadillo
 
-Oferece uma forma de acessar à API do Escador por intermédio de CLI feita em Python 3.9.0 e suas bibliotecas que auxiliam na manipulação do protocolo HTTP, a lista desses estão disponível em [requisitos](https://github.com/sswellington/armadillo/blob/main/requirements.txt).
+Oferece uma forma de acessar à API do Escador por intermédio de CLI feita em Python 3.9.0 e suas bibliotecas que auxiliam na manipulação do protocolo HTTP, a lista desses estão listados em [requisitos](https://github.com/sswellington/armadillo/blob/main/requirements.txt).
+O resultado da consulta é um conjunto de dados semiestruturados em formato json.
+
+Armadillo segue a Política de Dados Abertos do Poder Executivo federal, de maneira a aprimorar a cultura de transparência pública, tendo o objetivo de fomentar o controle social e o desenvolvimento de novas tecnologias destinadas à construção de ambiente de gestão pública participativa e democrática e à melhor oferta de serviços públicos para o cidadão.
 
 Observação, o Armillo não solicita nem um meio de pagamentos.
-Entretanto, pode ocorrer cobrança feito por terceiros, como a API do Escavador, assim consulte as informações no site da mesma e aproveite para obter a sua credencial.
-Além disso, Armillo não realiza a coleta, manipulação dos dados nem proprietário dos mesmos, ou seja, apenas oferece uma interface acessar os dados da Escavador por intermédio da API do mesmo.
+Entretanto, pode ocorrer cobrança realizada por terceiros, como a API do Escavador, por isto, consulte as informações pelo site da mesma e aproveite para obter a sua credencial.
+Além disso, Armillo não realiza a coleta, manipulação dos dados nem proprietário dos mesmos, ou seja, apenas oferece uma interface para acessar os dados do Escavador por intermédio da API do mesmo.
 
 ### Como usar
 1. Abra a pasta `src`
 2. Abra o arquivo `main.py`
 3. Faça autentificação:
-    * Linha 26: Seu e-mail
-    * Linha 27: Sua senha
-4. Realizar a pesquisa:
-    * Linha 41: 'q': 'Informar o que deseja pesquisar entre as aspas'
-    * Linha 42: 'qo': 'Informar o tipo da entidade a ser pesquisada'
-5. O resultado será exportado em um arquivo para a pasta `database` com o nome `sampling.json`
+4. Realizar a pesquisa:   
+5. O resultado será exportado em um arquivo para a pasta `database` com o nome `"SEARCH".json`
 
 ---
 
@@ -54,6 +53,7 @@ Fique à vontade para contribuir com o projeto, toda contribuição é bem vinda
 Sendo possível contribuir de 3 formas: issues, pull requests e revisar pull requests.
 
 ## Referência
+* [Decreto 8777 de maio de 2016: Política de Dados Abertos do Poder Executivo federal](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8777.htm)
 * [Documentação do Python](https://docs.python.org/3/)
 * [Documentação da API  do Escavador](https://api.escavador.com/docs/)
 * [Segurança - JWT x Cookies x OAuth 2.0 x Bearer por Bruno Brito](https://www.brunobrito.net.br/jwt-cookies-oauth-bearer/)
